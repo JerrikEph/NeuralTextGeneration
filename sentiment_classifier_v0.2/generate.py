@@ -227,10 +227,10 @@ class Generate_Model(NewsModel):
         
         nearest_words = tf.argmax(distance, dimension=1) #(num_steps)
         
-#         mask = tf.equal( nearest_words, tf.squeeze(self.input_ids, [0])) #(num_steps)
-#         mask = tf.expand_dims(mask, 1)      
-#         grad_update_op = self.input_grad.assign(tf.to_float(mask) * self.input_grad)
-        grad_update_op = self.input_grad.assign(tf.zeros_like(self.input_grad))
+        mask = tf.equal( nearest_words, tf.squeeze(self.input_ids, [0])) #(num_steps)
+        mask = tf.expand_dims(mask, 1)      
+        grad_update_op = self.input_grad.assign(tf.to_float(mask) * self.input_grad)
+        #grad_update_op = self.input_grad.assign(tf.zeros_like(self.input_grad))
         input_update_op = self.input_ids.assign(tf.expand_dims(nearest_words, 0))
         update_op = tf.group(grad_update_op, input_update_op)
         
