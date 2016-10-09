@@ -1,0 +1,1452 @@
+INFO 2016-09-22 16:22:36,841 Training start
+INFO 2016-09-22 16:23:03,000 Training start
+WARNING 2016-09-22 16:23:03,512 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7f14458afe90>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-22 16:23:04,752 Sigmoid activation
+INFO 2016-09-22 16:23:15,924 Mean loss in 0th epoch is: 17.2419910431
+INFO 2016-09-22 16:23:16,234 Overall test accuracy is: 0.490825688073
+INFO 2016-09-22 16:23:25,438 Mean loss in 1th epoch is: 1.50778222084
+INFO 2016-09-22 16:23:25,552 Overall test accuracy is: 0.509174311927
+INFO 2016-09-22 16:23:34,468 Mean loss in 2th epoch is: 0.742552638054
+INFO 2016-09-22 16:23:34,577 Overall test accuracy is: 0.509174311927
+INFO 2016-09-22 16:23:36,880 Mean loss in 3th epoch is: 0.69583940506
+INFO 2016-09-22 16:23:36,984 Overall test accuracy is: 0.509174311927
+INFO 2016-09-22 16:23:39,302 Mean loss in 4th epoch is: 0.692933380604
+INFO 2016-09-22 16:23:39,411 Overall test accuracy is: 0.509174311927
+INFO 2016-09-22 16:23:41,722 Mean loss in 5th epoch is: 0.692744076252
+INFO 2016-09-22 16:23:41,825 Overall test accuracy is: 0.509174311927
+INFO 2016-09-22 16:23:44,119 Mean loss in 6th epoch is: 0.692525923252
+INFO 2016-09-22 16:23:44,222 Overall test accuracy is: 0.509174311927
+INFO 2016-09-22 16:23:46,496 Mean loss in 7th epoch is: 0.692988455296
+INFO 2016-09-22 16:23:46,605 Overall test accuracy is: 0.509174311927
+INFO 2016-09-22 16:23:46,605 Normal Early stop
+INFO 2016-09-22 16:23:46,605 Training complete
+INFO 2016-09-22 16:26:50,914 Training start
+WARNING 2016-09-22 16:26:51,561 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7f3614c02e90>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-22 16:26:52,836 Sigmoid activation
+INFO 2016-09-22 16:27:19,329 Mean loss in 0th epoch is: 2.88078355789
+INFO 2016-09-22 16:27:20,156 Overall test accuracy is: 0.509174311927
+INFO 2016-09-22 16:27:44,000 Mean loss in 1th epoch is: 0.693235337734
+INFO 2016-09-22 16:27:44,677 Overall test accuracy is: 0.509174311927
+INFO 2016-09-22 16:28:02,487 Mean loss in 2th epoch is: 0.699677228928
+INFO 2016-09-22 16:28:03,129 Overall test accuracy is: 0.509174311927
+INFO 2016-09-22 16:28:20,504 Mean loss in 3th epoch is: 0.698870360851
+INFO 2016-09-22 16:28:21,151 Overall test accuracy is: 0.510321100917
+INFO 2016-09-22 16:29:06,346 Training start
+WARNING 2016-09-22 16:29:07,044 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7f37a6aafe90>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-22 16:29:08,370 Sigmoid activation
+INFO 2016-09-22 16:29:33,465 Mean loss in 0th epoch is: 107.71660614
+INFO 2016-09-22 16:29:34,282 Overall test accuracy is: 0.509174311927
+INFO 2016-09-22 16:29:56,653 Mean loss in 1th epoch is: 0.693359017372
+INFO 2016-09-22 16:29:57,259 Overall test accuracy is: 0.509174311927
+INFO 2016-09-22 16:30:12,985 Mean loss in 2th epoch is: 0.693072736263
+INFO 2016-09-22 16:30:13,610 Overall test accuracy is: 0.509174311927
+INFO 2016-09-22 16:30:29,439 Mean loss in 3th epoch is: 0.693949639797
+INFO 2016-09-22 16:30:30,066 Overall test accuracy is: 0.509174311927
+INFO 2016-09-22 16:30:45,868 Mean loss in 4th epoch is: 0.695021748543
+INFO 2016-09-22 16:30:46,491 Overall test accuracy is: 0.509174311927
+INFO 2016-09-22 16:31:02,048 Mean loss in 5th epoch is: 0.695866465569
+INFO 2016-09-22 16:31:02,656 Overall test accuracy is: 0.490825688073
+INFO 2016-09-22 16:31:18,278 Mean loss in 6th epoch is: 0.709628582001
+INFO 2016-09-22 16:31:18,906 Overall test accuracy is: 0.506880733945
+INFO 2016-09-22 16:31:18,907 Normal Early stop
+INFO 2016-09-22 16:31:18,907 Training complete
+INFO 2016-09-22 16:34:00,725 Training start
+WARNING 2016-09-22 16:34:01,375 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7f21175d4e90>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-22 16:34:02,637 Sigmoid activation
+INFO 2016-09-22 16:34:28,854 Mean loss in 0th epoch is: 56.3918800354
+INFO 2016-09-22 16:34:29,661 Overall test accuracy is: 0.511467889908
+INFO 2016-09-22 16:34:53,430 Mean loss in 1th epoch is: 11.4848947525
+INFO 2016-09-22 16:34:54,054 Overall test accuracy is: 0.518348623853
+INFO 2016-09-22 16:35:17,344 Mean loss in 2th epoch is: 106.765983582
+INFO 2016-09-22 16:35:17,982 Overall test accuracy is: 0.509174311927
+INFO 2016-09-22 16:35:35,029 Mean loss in 3th epoch is: 14.7874031067
+INFO 2016-09-22 16:35:35,665 Overall test accuracy is: 0.510321100917
+INFO 2016-09-22 16:35:52,748 Mean loss in 4th epoch is: 7.24359130859
+INFO 2016-09-22 16:35:53,396 Overall test accuracy is: 0.490825688073
+INFO 2016-09-22 16:36:10,484 Mean loss in 5th epoch is: 5.80972576141
+INFO 2016-09-22 16:36:11,113 Overall test accuracy is: 0.490825688073
+INFO 2016-09-22 16:36:28,438 Mean loss in 6th epoch is: 11.733259201
+INFO 2016-09-22 16:36:29,053 Overall test accuracy is: 0.511467889908
+INFO 2016-09-22 16:36:46,011 Mean loss in 7th epoch is: 4.70228719711
+INFO 2016-09-22 16:36:46,631 Overall test accuracy is: 0.474770642202
+INFO 2016-09-22 16:36:46,631 Normal Early stop
+INFO 2016-09-22 16:36:46,631 Training complete
+INFO 2016-09-22 16:37:27,514 Training start
+WARNING 2016-09-22 16:37:27,961 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7f34ec269e90>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-22 16:37:29,202 Sigmoid activation
+INFO 2016-09-22 16:37:54,143 Mean loss in 0th epoch is: 358.539215088
+INFO 2016-09-22 16:37:59,065 Overall training accuracy is: 0.515028901734
+INFO 2016-09-22 16:37:59,657 Overall test accuracy is: 0.512614678899
+INFO 2016-09-22 16:38:21,713 Mean loss in 1th epoch is: 1002.25537109
+INFO 2016-09-22 16:38:26,372 Overall training accuracy is: 0.48901734104
+INFO 2016-09-22 16:38:26,971 Overall test accuracy is: 0.493119266055
+INFO 2016-09-22 16:38:42,725 Mean loss in 2th epoch is: 931.254943848
+INFO 2016-09-22 16:38:47,291 Overall training accuracy is: 0.522398843931
+INFO 2016-09-22 16:38:47,918 Overall test accuracy is: 0.514908256881
+INFO 2016-09-22 16:39:10,172 Mean loss in 3th epoch is: 871.788330078
+INFO 2016-09-22 16:39:14,861 Overall training accuracy is: 0.48323699422
+INFO 2016-09-22 16:39:15,476 Overall test accuracy is: 0.494266055046
+INFO 2016-09-22 16:39:31,478 Mean loss in 4th epoch is: 823.974975586
+INFO 2016-09-22 16:39:36,258 Overall training accuracy is: 0.524132947977
+INFO 2016-09-22 16:39:36,824 Overall test accuracy is: 0.511467889908
+INFO 2016-09-22 16:40:02,952 Training start
+WARNING 2016-09-22 16:40:03,529 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7fb022ee5e90>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-22 16:40:04,797 Sigmoid activation
+INFO 2016-09-22 16:40:29,317 Mean loss in 0th epoch is: 0.889941751957
+INFO 2016-09-22 16:40:33,900 Overall training accuracy is: 0.689884393064
+INFO 2016-09-22 16:40:34,483 Overall test accuracy is: 0.660550458716
+INFO 2016-09-22 16:40:56,515 Mean loss in 1th epoch is: 0.672808766365
+INFO 2016-09-22 16:41:01,062 Overall training accuracy is: 0.674710982659
+INFO 2016-09-22 16:41:01,670 Overall test accuracy is: 0.653669724771
+INFO 2016-09-22 16:41:17,372 Mean loss in 2th epoch is: 0.642640292645
+INFO 2016-09-22 16:41:21,926 Overall training accuracy is: 0.63598265896
+INFO 2016-09-22 16:41:22,553 Overall test accuracy is: 0.605504587156
+INFO 2016-09-22 16:41:38,211 Mean loss in 3th epoch is: 0.632939219475
+INFO 2016-09-22 16:41:42,845 Overall training accuracy is: 0.706069364162
+INFO 2016-09-22 16:41:43,439 Overall test accuracy is: 0.660550458716
+INFO 2016-09-22 16:41:59,021 Mean loss in 4th epoch is: 0.637156009674
+INFO 2016-09-22 16:42:03,640 Overall training accuracy is: 0.721965317919
+INFO 2016-09-22 16:42:04,245 Overall test accuracy is: 0.661697247706
+INFO 2016-09-22 16:42:26,598 Mean loss in 5th epoch is: 0.639233469963
+INFO 2016-09-22 16:42:31,167 Overall training accuracy is: 0.721820809249
+INFO 2016-09-22 16:42:31,731 Overall test accuracy is: 0.686926605505
+INFO 2016-09-22 16:42:53,666 Mean loss in 6th epoch is: 0.623227536678
+INFO 2016-09-22 16:42:58,263 Overall training accuracy is: 0.715028901734
+INFO 2016-09-22 16:42:58,873 Overall test accuracy is: 0.69380733945
+INFO 2016-09-22 16:43:20,965 Mean loss in 7th epoch is: 0.623116791248
+INFO 2016-09-22 16:43:25,530 Overall training accuracy is: 0.717919075145
+INFO 2016-09-22 16:43:26,103 Overall test accuracy is: 0.697247706422
+INFO 2016-09-22 16:43:47,741 Mean loss in 8th epoch is: 0.6192958951
+INFO 2016-09-22 16:43:52,236 Overall training accuracy is: 0.715028901734
+INFO 2016-09-22 16:43:52,812 Overall test accuracy is: 0.685779816514
+INFO 2016-09-22 16:44:08,373 Mean loss in 9th epoch is: 0.611857950687
+INFO 2016-09-22 16:44:12,887 Overall training accuracy is: 0.720086705202
+INFO 2016-09-22 16:44:13,459 Overall test accuracy is: 0.700688073394
+INFO 2016-09-22 16:44:36,433 Mean loss in 10th epoch is: 0.621583223343
+INFO 2016-09-22 16:44:41,094 Overall training accuracy is: 0.728901734104
+INFO 2016-09-22 16:44:41,689 Overall test accuracy is: 0.689220183486
+INFO 2016-09-22 16:44:57,333 Mean loss in 11th epoch is: 0.612620890141
+INFO 2016-09-22 16:45:01,892 Overall training accuracy is: 0.70289017341
+INFO 2016-09-22 16:45:02,446 Overall test accuracy is: 0.631880733945
+INFO 2016-09-22 16:45:18,309 Mean loss in 12th epoch is: 0.618036210537
+INFO 2016-09-22 16:45:22,930 Overall training accuracy is: 0.702023121387
+INFO 2016-09-22 16:45:23,575 Overall test accuracy is: 0.649082568807
+INFO 2016-09-22 16:45:39,511 Mean loss in 13th epoch is: 0.621808767319
+INFO 2016-09-22 16:45:44,136 Overall training accuracy is: 0.715895953757
+INFO 2016-09-22 16:45:44,707 Overall test accuracy is: 0.655963302752
+INFO 2016-09-22 16:46:00,389 Mean loss in 14th epoch is: 0.609770596027
+INFO 2016-09-22 16:46:04,894 Overall training accuracy is: 0.718352601156
+INFO 2016-09-22 16:46:05,477 Overall test accuracy is: 0.633027522936
+INFO 2016-09-22 16:46:21,369 Mean loss in 15th epoch is: 0.620298147202
+INFO 2016-09-22 16:46:25,916 Overall training accuracy is: 0.729479768786
+INFO 2016-09-22 16:46:26,478 Overall test accuracy is: 0.699541284404
+INFO 2016-09-22 16:46:26,478 Normal Early stop
+INFO 2016-09-22 16:46:26,478 Training complete
+INFO 2016-09-22 16:47:40,511 Training start
+WARNING 2016-09-22 16:47:41,078 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7f613b387e90>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-22 16:47:42,326 Sigmoid activation
+INFO 2016-09-22 16:48:08,063 Mean loss in 0th epoch is: 0.654052734375
+INFO 2016-09-22 16:48:12,857 Overall training accuracy is: 0.690173410405
+INFO 2016-09-22 16:48:13,447 Overall test accuracy is: 0.644495412844
+INFO 2016-09-22 16:48:36,978 Mean loss in 1th epoch is: 0.610082685947
+INFO 2016-09-22 16:48:41,632 Overall training accuracy is: 0.732369942197
+INFO 2016-09-22 16:48:42,210 Overall test accuracy is: 0.690366972477
+INFO 2016-09-22 16:49:05,485 Mean loss in 2th epoch is: 0.604143083096
+INFO 2016-09-22 16:49:10,287 Overall training accuracy is: 0.746965317919
+INFO 2016-09-22 16:49:10,899 Overall test accuracy is: 0.70871559633
+INFO 2016-09-22 16:49:33,679 Mean loss in 3th epoch is: 0.596913278103
+INFO 2016-09-22 16:49:38,468 Overall training accuracy is: 0.748699421965
+INFO 2016-09-22 16:49:39,066 Overall test accuracy is: 0.72247706422
+INFO 2016-09-22 16:50:02,034 Mean loss in 4th epoch is: 0.582538962364
+INFO 2016-09-22 16:50:06,596 Overall training accuracy is: 0.773843930636
+INFO 2016-09-22 16:50:07,172 Overall test accuracy is: 0.705275229358
+INFO 2016-09-22 16:50:23,851 Mean loss in 5th epoch is: 0.563186407089
+INFO 2016-09-22 16:50:28,402 Overall training accuracy is: 0.769653179191
+INFO 2016-09-22 16:50:29,033 Overall test accuracy is: 0.714449541284
+INFO 2016-09-22 16:50:45,791 Mean loss in 6th epoch is: 0.541306734085
+INFO 2016-09-22 16:50:50,388 Overall training accuracy is: 0.821965317919
+INFO 2016-09-22 16:50:50,995 Overall test accuracy is: 0.730504587156
+INFO 2016-09-22 16:51:14,195 Mean loss in 7th epoch is: 0.511297404766
+INFO 2016-09-22 16:51:18,761 Overall training accuracy is: 0.858092485549
+INFO 2016-09-22 16:51:19,381 Overall test accuracy is: 0.767201834862
+INFO 2016-09-22 16:51:42,594 Mean loss in 8th epoch is: 0.468035668135
+INFO 2016-09-22 16:51:47,111 Overall training accuracy is: 0.874710982659
+INFO 2016-09-22 16:51:47,689 Overall test accuracy is: 0.759174311927
+INFO 2016-09-22 16:52:04,551 Mean loss in 9th epoch is: 0.411388456821
+INFO 2016-09-22 16:52:09,111 Overall training accuracy is: 0.896965317919
+INFO 2016-09-22 16:52:09,659 Overall test accuracy is: 0.760321100917
+INFO 2016-09-22 16:52:26,373 Mean loss in 10th epoch is: 0.325124233961
+INFO 2016-09-22 16:52:31,104 Overall training accuracy is: 0.935838150289
+INFO 2016-09-22 16:52:31,706 Overall test accuracy is: 0.741972477064
+INFO 2016-09-22 16:52:48,334 Mean loss in 11th epoch is: 0.229250520468
+INFO 2016-09-22 16:52:52,925 Overall training accuracy is: 0.965751445087
+INFO 2016-09-22 16:52:53,524 Overall test accuracy is: 0.758027522936
+INFO 2016-09-22 16:53:10,147 Mean loss in 12th epoch is: 0.11529751122
+INFO 2016-09-22 16:53:14,772 Overall training accuracy is: 0.98901734104
+INFO 2016-09-22 16:53:15,369 Overall test accuracy is: 0.758027522936
+INFO 2016-09-22 16:53:31,770 Mean loss in 13th epoch is: 0.042108528316
+INFO 2016-09-22 16:53:36,085 Overall training accuracy is: 0.997832369942
+INFO 2016-09-22 16:53:36,666 Overall test accuracy is: 0.770642201835
+INFO 2016-09-22 16:53:59,541 Mean loss in 14th epoch is: 0.0117430174723
+INFO 2016-09-22 16:54:04,203 Overall training accuracy is: 0.999421965318
+INFO 2016-09-22 16:54:04,794 Overall test accuracy is: 0.780963302752
+INFO 2016-09-22 16:54:28,046 Mean loss in 15th epoch is: 0.00365375634283
+INFO 2016-09-22 16:54:32,662 Overall training accuracy is: 0.999710982659
+INFO 2016-09-22 16:54:33,286 Overall test accuracy is: 0.776376146789
+INFO 2016-09-22 16:54:49,985 Mean loss in 16th epoch is: 0.00183301058132
+INFO 2016-09-22 16:54:54,564 Overall training accuracy is: 1.0
+INFO 2016-09-22 16:54:55,166 Overall test accuracy is: 0.776376146789
+INFO 2016-09-22 16:55:11,928 Mean loss in 17th epoch is: 0.00123572919983
+INFO 2016-09-22 16:55:16,644 Overall training accuracy is: 1.0
+INFO 2016-09-22 16:55:17,241 Overall test accuracy is: 0.774082568807
+INFO 2016-09-22 16:55:32,795 Mean loss in 18th epoch is: 0.000956463161856
+INFO 2016-09-22 16:55:37,585 Overall training accuracy is: 1.0
+INFO 2016-09-22 16:55:38,148 Overall test accuracy is: 0.770642201835
+INFO 2016-09-22 16:55:54,971 Mean loss in 19th epoch is: 0.000792279606685
+INFO 2016-09-22 16:55:59,705 Overall training accuracy is: 1.0
+INFO 2016-09-22 16:56:00,285 Overall test accuracy is: 0.769495412844
+INFO 2016-09-22 16:56:17,153 Mean loss in 20th epoch is: 0.000680498429574
+INFO 2016-09-22 16:56:21,762 Overall training accuracy is: 1.0
+INFO 2016-09-22 16:56:22,339 Overall test accuracy is: 0.768348623853
+INFO 2016-09-22 16:56:22,339 Normal Early stop
+INFO 2016-09-22 16:56:22,340 Training complete
+INFO 2016-09-22 17:01:58,775 Training start
+WARNING 2016-09-22 17:01:59,293 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7f3953e62e90>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-22 17:02:00,557 Sigmoid activation
+INFO 2016-09-22 17:02:26,437 Mean loss in 0th epoch is: 0.77206081152
+INFO 2016-09-22 17:02:31,334 Overall training accuracy is: 0.722398843931
+INFO 2016-09-22 17:02:31,972 Overall test accuracy is: 0.707568807339
+INFO 2016-09-22 17:02:55,527 Mean loss in 1th epoch is: 0.649038255215
+INFO 2016-09-22 17:03:00,270 Overall training accuracy is: 0.715895953757
+INFO 2016-09-22 17:03:00,881 Overall test accuracy is: 0.689220183486
+INFO 2016-09-22 17:03:17,449 Mean loss in 2th epoch is: 0.631211698055
+INFO 2016-09-22 17:03:22,128 Overall training accuracy is: 0.741907514451
+INFO 2016-09-22 17:03:22,766 Overall test accuracy is: 0.709862385321
+INFO 2016-09-22 17:03:45,642 Mean loss in 3th epoch is: 0.615077078342
+INFO 2016-09-22 17:03:50,314 Overall training accuracy is: 0.742341040462
+INFO 2016-09-22 17:03:50,906 Overall test accuracy is: 0.68004587156
+INFO 2016-09-22 17:04:07,889 Mean loss in 4th epoch is: 0.600836575031
+INFO 2016-09-22 17:04:12,546 Overall training accuracy is: 0.760549132948
+INFO 2016-09-22 17:04:13,142 Overall test accuracy is: 0.688073394495
+INFO 2016-09-22 17:04:29,881 Mean loss in 5th epoch is: 0.584334313869
+INFO 2016-09-22 17:04:34,670 Overall training accuracy is: 0.779768786127
+INFO 2016-09-22 17:04:35,261 Overall test accuracy is: 0.711009174312
+INFO 2016-09-22 17:04:59,217 Mean loss in 6th epoch is: 0.568543374538
+INFO 2016-09-22 17:05:03,920 Overall training accuracy is: 0.782803468208
+INFO 2016-09-22 17:05:04,561 Overall test accuracy is: 0.691513761468
+INFO 2016-09-22 17:05:21,732 Mean loss in 7th epoch is: 0.541480720043
+INFO 2016-09-22 17:05:26,497 Overall training accuracy is: 0.822543352601
+INFO 2016-09-22 17:05:27,069 Overall test accuracy is: 0.73623853211
+INFO 2016-09-22 17:05:50,634 Mean loss in 8th epoch is: 0.514090240002
+INFO 2016-09-22 17:05:55,359 Overall training accuracy is: 0.845664739884
+INFO 2016-09-22 17:05:55,945 Overall test accuracy is: 0.714449541284
+INFO 2016-09-22 17:06:13,296 Mean loss in 9th epoch is: 0.471215009689
+INFO 2016-09-22 17:06:17,951 Overall training accuracy is: 0.890028901734
+INFO 2016-09-22 17:06:18,586 Overall test accuracy is: 0.741972477064
+INFO 2016-09-22 17:06:42,029 Mean loss in 10th epoch is: 0.413658648729
+INFO 2016-09-22 17:06:46,683 Overall training accuracy is: 0.917774566474
+INFO 2016-09-22 17:06:47,297 Overall test accuracy is: 0.759174311927
+INFO 2016-09-22 17:07:10,673 Mean loss in 11th epoch is: 0.343422144651
+INFO 2016-09-22 17:07:15,280 Overall training accuracy is: 0.936849710983
+INFO 2016-09-22 17:07:15,872 Overall test accuracy is: 0.761467889908
+INFO 2016-09-22 17:07:38,658 Mean loss in 12th epoch is: 0.26336824894
+INFO 2016-09-22 17:07:43,191 Overall training accuracy is: 0.952167630058
+INFO 2016-09-22 17:07:43,781 Overall test accuracy is: 0.753440366972
+INFO 2016-09-22 17:08:00,385 Mean loss in 13th epoch is: 0.189342394471
+INFO 2016-09-22 17:08:04,961 Overall training accuracy is: 0.974855491329
+INFO 2016-09-22 17:08:05,542 Overall test accuracy is: 0.747706422018
+INFO 2016-09-22 17:08:22,229 Mean loss in 14th epoch is: 0.114892430604
+INFO 2016-09-22 17:08:26,798 Overall training accuracy is: 0.987716763006
+INFO 2016-09-22 17:08:27,382 Overall test accuracy is: 0.745412844037
+INFO 2016-09-22 17:08:44,133 Mean loss in 15th epoch is: 0.0696460306644
+INFO 2016-09-22 17:08:48,869 Overall training accuracy is: 0.991907514451
+INFO 2016-09-22 17:08:49,483 Overall test accuracy is: 0.751146788991
+INFO 2016-09-22 17:09:11,761 Training start
+WARNING 2016-09-22 17:09:12,381 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7f95b0bc3e90>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-22 17:09:13,646 Sigmoid activation
+INFO 2016-09-22 17:09:38,820 Mean loss in 0th epoch is: 0.882502496243
+INFO 2016-09-22 17:09:43,458 Overall training accuracy is: 0.713150289017
+INFO 2016-09-22 17:09:44,058 Overall test accuracy is: 0.675458715596
+INFO 2016-09-22 17:10:06,558 Mean loss in 1th epoch is: 0.64809936285
+INFO 2016-09-22 17:10:11,396 Overall training accuracy is: 0.722976878613
+INFO 2016-09-22 17:10:12,029 Overall test accuracy is: 0.709862385321
+INFO 2016-09-22 17:10:34,352 Mean loss in 2th epoch is: 0.642492175102
+INFO 2016-09-22 17:10:39,113 Overall training accuracy is: 0.723699421965
+INFO 2016-09-22 17:10:39,773 Overall test accuracy is: 0.678899082569
+INFO 2016-09-22 17:10:55,835 Mean loss in 3th epoch is: 0.627225518227
+INFO 2016-09-22 17:11:00,574 Overall training accuracy is: 0.732225433526
+INFO 2016-09-22 17:11:01,180 Overall test accuracy is: 0.682339449541
+INFO 2016-09-22 17:11:17,157 Mean loss in 4th epoch is: 0.616962015629
+INFO 2016-09-22 17:11:21,928 Overall training accuracy is: 0.716907514451
+INFO 2016-09-22 17:11:22,504 Overall test accuracy is: 0.673165137615
+INFO 2016-09-22 17:11:38,738 Mean loss in 5th epoch is: 0.60632109642
+INFO 2016-09-22 17:11:43,577 Overall training accuracy is: 0.744942196532
+INFO 2016-09-22 17:11:44,201 Overall test accuracy is: 0.689220183486
+INFO 2016-09-22 17:12:00,197 Mean loss in 6th epoch is: 0.591686785221
+INFO 2016-09-22 17:12:04,986 Overall training accuracy is: 0.797543352601
+INFO 2016-09-22 17:12:05,584 Overall test accuracy is: 0.720183486239
+INFO 2016-09-22 17:12:27,824 Mean loss in 7th epoch is: 0.571860790253
+INFO 2016-09-22 17:12:32,483 Overall training accuracy is: 0.809393063584
+INFO 2016-09-22 17:12:33,074 Overall test accuracy is: 0.72247706422
+INFO 2016-09-22 17:12:55,609 Mean loss in 8th epoch is: 0.5501049757
+INFO 2016-09-22 17:13:00,407 Overall training accuracy is: 0.856791907514
+INFO 2016-09-22 17:13:01,041 Overall test accuracy is: 0.72247706422
+INFO 2016-09-22 17:13:16,997 Mean loss in 9th epoch is: 0.509442865849
+INFO 2016-09-22 17:13:21,740 Overall training accuracy is: 0.867052023121
+INFO 2016-09-22 17:13:22,349 Overall test accuracy is: 0.739678899083
+INFO 2016-09-22 17:13:44,324 Mean loss in 10th epoch is: 0.46897393465
+INFO 2016-09-22 17:13:49,115 Overall training accuracy is: 0.91387283237
+INFO 2016-09-22 17:13:49,739 Overall test accuracy is: 0.753440366972
+INFO 2016-09-22 17:14:12,675 Mean loss in 11th epoch is: 0.397915989161
+INFO 2016-09-22 17:14:17,511 Overall training accuracy is: 0.923699421965
+INFO 2016-09-22 17:14:18,134 Overall test accuracy is: 0.769495412844
+INFO 2016-09-22 17:14:40,043 Mean loss in 12th epoch is: 0.335319250822
+INFO 2016-09-22 17:14:44,794 Overall training accuracy is: 0.948699421965
+INFO 2016-09-22 17:14:45,428 Overall test accuracy is: 0.76376146789
+INFO 2016-09-22 17:15:01,481 Mean loss in 13th epoch is: 0.262771844864
+INFO 2016-09-22 17:15:06,350 Overall training accuracy is: 0.966184971098
+INFO 2016-09-22 17:15:06,993 Overall test accuracy is: 0.746559633028
+INFO 2016-09-22 17:15:22,818 Mean loss in 14th epoch is: 0.192289322615
+INFO 2016-09-22 17:15:27,507 Overall training accuracy is: 0.981358381503
+INFO 2016-09-22 17:15:28,069 Overall test accuracy is: 0.766055045872
+INFO 2016-09-22 17:15:43,691 Mean loss in 15th epoch is: 0.1444311589
+INFO 2016-09-22 17:15:47,593 Overall training accuracy is: 0.985693641618
+INFO 2016-09-22 17:15:48,080 Overall test accuracy is: 0.756880733945
+INFO 2016-09-22 17:16:03,816 Mean loss in 16th epoch is: 0.11904977262
+INFO 2016-09-22 17:16:08,649 Overall training accuracy is: 0.992774566474
+INFO 2016-09-22 17:16:09,269 Overall test accuracy is: 0.753440366972
+INFO 2016-09-22 17:16:25,289 Mean loss in 17th epoch is: 0.10121640563
+INFO 2016-09-22 17:16:29,838 Overall training accuracy is: 0.993641618497
+INFO 2016-09-22 17:16:30,448 Overall test accuracy is: 0.760321100917
+INFO 2016-09-22 17:16:30,449 Normal Early stop
+INFO 2016-09-22 17:16:30,449 Training complete
+INFO 2016-09-22 17:46:12,141 Training start
+WARNING 2016-09-22 17:46:12,722 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7f9afc4f3e90>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-22 17:46:14,000 Sigmoid activation
+INFO 2016-09-22 17:46:40,823 Mean loss in 0th epoch is: 1.29712951183
+INFO 2016-09-22 17:46:45,805 Overall training accuracy is: 0.521676300578
+INFO 2016-09-22 17:46:46,463 Overall test accuracy is: 0.509174311927
+INFO 2016-09-22 17:47:10,944 Mean loss in 1th epoch is: 0.693668484688
+INFO 2016-09-22 17:47:15,765 Overall training accuracy is: 0.521676300578
+INFO 2016-09-22 17:47:16,378 Overall test accuracy is: 0.509174311927
+INFO 2016-09-22 17:47:33,732 Mean loss in 2th epoch is: 0.693134844303
+INFO 2016-09-22 17:47:38,586 Overall training accuracy is: 0.521676300578
+INFO 2016-09-22 17:47:39,204 Overall test accuracy is: 0.509174311927
+INFO 2016-09-22 17:47:56,689 Mean loss in 3th epoch is: 0.693084001541
+INFO 2016-09-22 17:48:01,481 Overall training accuracy is: 0.521676300578
+INFO 2016-09-22 17:48:02,081 Overall test accuracy is: 0.509174311927
+INFO 2016-09-22 17:48:19,589 Mean loss in 4th epoch is: 0.693826913834
+INFO 2016-09-22 17:48:24,446 Overall training accuracy is: 0.521676300578
+INFO 2016-09-22 17:48:25,071 Overall test accuracy is: 0.509174311927
+INFO 2016-09-22 17:48:42,711 Mean loss in 5th epoch is: 0.69509023428
+INFO 2016-09-22 17:48:47,511 Overall training accuracy is: 0.521676300578
+INFO 2016-09-22 17:48:48,157 Overall test accuracy is: 0.509174311927
+INFO 2016-09-22 17:49:05,733 Mean loss in 6th epoch is: 0.677771270275
+INFO 2016-09-22 17:49:10,598 Overall training accuracy is: 0.746098265896
+INFO 2016-09-22 17:49:11,199 Overall test accuracy is: 0.717889908257
+INFO 2016-09-22 17:49:33,987 Mean loss in 7th epoch is: 0.655788004398
+INFO 2016-09-22 17:49:38,767 Overall training accuracy is: 0.77225433526
+INFO 2016-09-22 17:49:39,401 Overall test accuracy is: 0.743119266055
+INFO 2016-09-22 17:50:03,368 Mean loss in 8th epoch is: 0.631805837154
+INFO 2016-09-22 17:50:08,188 Overall training accuracy is: 0.803757225434
+INFO 2016-09-22 17:50:08,831 Overall test accuracy is: 0.714449541284
+INFO 2016-09-22 17:50:26,362 Mean loss in 9th epoch is: 0.607333302498
+INFO 2016-09-22 17:50:31,136 Overall training accuracy is: 0.837138728324
+INFO 2016-09-22 17:50:31,748 Overall test accuracy is: 0.73623853211
+INFO 2016-09-22 17:50:49,376 Mean loss in 10th epoch is: 0.581384897232
+INFO 2016-09-22 17:50:54,224 Overall training accuracy is: 0.86387283237
+INFO 2016-09-22 17:50:54,865 Overall test accuracy is: 0.738532110092
+INFO 2016-09-22 17:51:12,740 Mean loss in 11th epoch is: 0.525267422199
+INFO 2016-09-22 17:51:17,511 Overall training accuracy is: 0.902023121387
+INFO 2016-09-22 17:51:18,097 Overall test accuracy is: 0.754587155963
+INFO 2016-09-22 17:51:41,276 Mean loss in 12th epoch is: 0.473940968513
+INFO 2016-09-22 17:51:46,143 Overall training accuracy is: 0.932080924855
+INFO 2016-09-22 17:51:46,750 Overall test accuracy is: 0.767201834862
+INFO 2016-09-22 17:52:10,695 Mean loss in 13th epoch is: 0.411458849907
+INFO 2016-09-22 17:52:15,597 Overall training accuracy is: 0.946820809249
+INFO 2016-09-22 17:52:16,200 Overall test accuracy is: 0.756880733945
+INFO 2016-09-22 17:52:33,482 Mean loss in 14th epoch is: 0.349109649658
+INFO 2016-09-22 17:52:38,298 Overall training accuracy is: 0.964161849711
+INFO 2016-09-22 17:52:38,935 Overall test accuracy is: 0.761467889908
+INFO 2016-09-22 17:52:56,536 Mean loss in 15th epoch is: 0.293279737234
+INFO 2016-09-22 17:53:01,254 Overall training accuracy is: 0.971387283237
+INFO 2016-09-22 17:53:01,861 Overall test accuracy is: 0.759174311927
+INFO 2016-09-22 17:53:19,209 Mean loss in 16th epoch is: 0.259277284145
+INFO 2016-09-22 17:53:24,078 Overall training accuracy is: 0.978179190751
+INFO 2016-09-22 17:53:24,694 Overall test accuracy is: 0.760321100917
+INFO 2016-09-22 17:53:42,271 Mean loss in 17th epoch is: 0.239453181624
+INFO 2016-09-22 17:53:47,184 Overall training accuracy is: 0.985404624277
+INFO 2016-09-22 17:53:47,792 Overall test accuracy is: 0.756880733945
+INFO 2016-09-22 17:54:05,398 Mean loss in 18th epoch is: 0.223314300179
+INFO 2016-09-22 17:54:10,270 Overall training accuracy is: 0.988583815029
+INFO 2016-09-22 17:54:10,845 Overall test accuracy is: 0.753440366972
+INFO 2016-09-22 17:54:10,845 Normal Early stop
+INFO 2016-09-22 17:54:10,845 Training complete
+INFO 2016-09-22 17:55:13,105 Training start
+WARNING 2016-09-22 17:55:13,750 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7fbd75bb4e90>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-22 17:55:15,084 Sigmoid activation
+INFO 2016-09-22 17:55:39,776 Mean loss in 0th epoch is: 1.26578271389
+INFO 2016-09-22 17:55:44,700 Overall training accuracy is: 0.69436416185
+INFO 2016-09-22 17:55:45,292 Overall test accuracy is: 0.686926605505
+INFO 2016-09-22 17:56:07,932 Mean loss in 1th epoch is: 0.693550407887
+INFO 2016-09-22 17:56:12,571 Overall training accuracy is: 0.701589595376
+INFO 2016-09-22 17:56:13,204 Overall test accuracy is: 0.677752293578
+INFO 2016-09-22 17:56:29,275 Mean loss in 2th epoch is: 0.669515252113
+INFO 2016-09-22 17:56:33,816 Overall training accuracy is: 0.740317919075
+INFO 2016-09-22 17:56:34,425 Overall test accuracy is: 0.723623853211
+INFO 2016-09-22 17:56:56,790 Mean loss in 3th epoch is: 0.665991604328
+INFO 2016-09-22 17:57:01,549 Overall training accuracy is: 0.717341040462
+INFO 2016-09-22 17:57:02,160 Overall test accuracy is: 0.662844036697
+INFO 2016-09-22 17:57:17,515 Mean loss in 4th epoch is: 0.657734811306
+INFO 2016-09-22 17:57:22,180 Overall training accuracy is: 0.736994219653
+INFO 2016-09-22 17:57:22,769 Overall test accuracy is: 0.706422018349
+INFO 2016-09-22 17:57:38,302 Mean loss in 5th epoch is: 0.64624351263
+INFO 2016-09-22 17:57:42,894 Overall training accuracy is: 0.75823699422
+INFO 2016-09-22 17:57:43,489 Overall test accuracy is: 0.692660550459
+INFO 2016-09-22 17:57:59,184 Mean loss in 6th epoch is: 0.637057125568
+INFO 2016-09-22 17:58:03,781 Overall training accuracy is: 0.775289017341
+INFO 2016-09-22 17:58:04,373 Overall test accuracy is: 0.715596330275
+INFO 2016-09-22 17:58:20,204 Mean loss in 7th epoch is: 0.628689110279
+INFO 2016-09-22 17:58:24,819 Overall training accuracy is: 0.781213872832
+INFO 2016-09-22 17:58:25,437 Overall test accuracy is: 0.715596330275
+INFO 2016-09-22 17:58:41,075 Mean loss in 8th epoch is: 0.604402959347
+INFO 2016-09-22 17:58:45,716 Overall training accuracy is: 0.816907514451
+INFO 2016-09-22 17:58:46,334 Overall test accuracy is: 0.73623853211
+INFO 2016-09-22 17:59:10,049 Mean loss in 9th epoch is: 0.581346333027
+INFO 2016-09-22 17:59:14,691 Overall training accuracy is: 0.86950867052
+INFO 2016-09-22 17:59:15,299 Overall test accuracy is: 0.753440366972
+INFO 2016-09-22 17:59:37,247 Mean loss in 10th epoch is: 0.54478085041
+INFO 2016-09-22 17:59:41,877 Overall training accuracy is: 0.890751445087
+INFO 2016-09-22 17:59:42,449 Overall test accuracy is: 0.755733944954
+INFO 2016-09-22 18:00:04,106 Mean loss in 11th epoch is: 0.498283565044
+INFO 2016-09-22 18:00:08,827 Overall training accuracy is: 0.90838150289
+INFO 2016-09-22 18:00:09,431 Overall test accuracy is: 0.745412844037
+INFO 2016-09-22 18:00:25,225 Mean loss in 12th epoch is: 0.441308259964
+INFO 2016-09-22 18:00:29,819 Overall training accuracy is: 0.932514450867
+INFO 2016-09-22 18:00:30,409 Overall test accuracy is: 0.753440366972
+INFO 2016-09-22 18:00:46,251 Mean loss in 13th epoch is: 0.387023121119
+INFO 2016-09-22 18:00:50,892 Overall training accuracy is: 0.954046242775
+INFO 2016-09-22 18:00:51,481 Overall test accuracy is: 0.762614678899
+INFO 2016-09-22 18:01:13,901 Mean loss in 14th epoch is: 0.326055169106
+INFO 2016-09-22 18:01:18,548 Overall training accuracy is: 0.967485549133
+INFO 2016-09-22 18:01:19,151 Overall test accuracy is: 0.751146788991
+INFO 2016-09-22 18:01:34,770 Mean loss in 15th epoch is: 0.287948638201
+INFO 2016-09-22 18:01:39,381 Overall training accuracy is: 0.974855491329
+INFO 2016-09-22 18:01:39,944 Overall test accuracy is: 0.758027522936
+INFO 2016-09-22 18:01:55,821 Mean loss in 16th epoch is: 0.248407676816
+INFO 2016-09-22 18:02:00,410 Overall training accuracy is: 0.982803468208
+INFO 2016-09-22 18:02:00,994 Overall test accuracy is: 0.762614678899
+INFO 2016-09-22 18:02:16,877 Mean loss in 17th epoch is: 0.228277698159
+INFO 2016-09-22 18:02:21,543 Overall training accuracy is: 0.987138728324
+INFO 2016-09-22 18:02:22,147 Overall test accuracy is: 0.764908256881
+INFO 2016-09-22 18:02:44,237 Mean loss in 18th epoch is: 0.215554773808
+INFO 2016-09-22 18:02:49,049 Overall training accuracy is: 0.98887283237
+INFO 2016-09-22 18:02:49,647 Overall test accuracy is: 0.76376146789
+INFO 2016-09-22 18:03:05,391 Mean loss in 19th epoch is: 0.208717986941
+INFO 2016-09-22 18:03:24,104 Training start
+WARNING 2016-09-22 18:03:24,645 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7f1b1502fe90>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-22 18:03:25,929 Sigmoid activation
+INFO 2016-09-22 18:03:50,679 Mean loss in 0th epoch is: 1.28705906868
+INFO 2016-09-22 18:03:55,577 Overall training accuracy is: 0.489884393064
+INFO 2016-09-22 18:03:56,183 Overall test accuracy is: 0.467889908257
+INFO 2016-09-22 18:04:18,340 Mean loss in 1th epoch is: 0.693953037262
+INFO 2016-09-22 18:04:23,028 Overall training accuracy is: 0.521676300578
+INFO 2016-09-22 18:04:23,654 Overall test accuracy is: 0.509174311927
+INFO 2016-09-22 18:04:45,648 Mean loss in 2th epoch is: 0.692615807056
+INFO 2016-09-22 18:04:50,219 Overall training accuracy is: 0.521676300578
+INFO 2016-09-22 18:04:50,829 Overall test accuracy is: 0.509174311927
+INFO 2016-09-22 18:05:06,674 Mean loss in 3th epoch is: 0.694144785404
+INFO 2016-09-22 18:05:11,483 Overall training accuracy is: 0.521676300578
+INFO 2016-09-22 18:05:12,120 Overall test accuracy is: 0.509174311927
+INFO 2016-09-22 18:05:27,923 Mean loss in 4th epoch is: 0.676671147346
+INFO 2016-09-22 18:05:32,510 Overall training accuracy is: 0.707225433526
+INFO 2016-09-22 18:05:33,145 Overall test accuracy is: 0.663990825688
+INFO 2016-09-22 18:05:55,221 Mean loss in 5th epoch is: 0.658968687057
+INFO 2016-09-22 18:05:59,891 Overall training accuracy is: 0.723121387283
+INFO 2016-09-22 18:06:00,494 Overall test accuracy is: 0.692660550459
+INFO 2016-09-22 18:06:22,328 Mean loss in 6th epoch is: 0.652130424976
+INFO 2016-09-22 18:06:26,975 Overall training accuracy is: 0.749855491329
+INFO 2016-09-22 18:06:27,566 Overall test accuracy is: 0.69380733945
+INFO 2016-09-22 18:06:49,614 Mean loss in 7th epoch is: 0.633418321609
+INFO 2016-09-22 18:07:09,390 Training start
+WARNING 2016-09-22 18:07:09,980 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7f373aee2e90>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-22 18:07:11,248 Sigmoid activation
+INFO 2016-09-22 18:07:37,012 Mean loss in 0th epoch is: 1.27289438248
+INFO 2016-09-22 18:07:41,687 Overall training accuracy is: 0.687572254335
+INFO 2016-09-22 18:07:42,217 Overall test accuracy is: 0.660550458716
+INFO 2016-09-22 18:08:04,965 Mean loss in 1th epoch is: 0.681900382042
+INFO 2016-09-22 18:08:09,618 Overall training accuracy is: 0.677312138728
+INFO 2016-09-22 18:08:10,209 Overall test accuracy is: 0.676605504587
+INFO 2016-09-22 18:08:32,912 Mean loss in 2th epoch is: 0.666505038738
+INFO 2016-09-22 18:08:37,385 Overall training accuracy is: 0.715895953757
+INFO 2016-09-22 18:08:37,931 Overall test accuracy is: 0.683486238532
+INFO 2016-09-22 18:09:00,589 Mean loss in 3th epoch is: 0.660882472992
+INFO 2016-09-22 18:09:05,026 Overall training accuracy is: 0.684682080925
+INFO 2016-09-22 18:09:05,548 Overall test accuracy is: 0.642201834862
+INFO 2016-09-22 18:09:21,796 Mean loss in 4th epoch is: 0.659704983234
+INFO 2016-09-22 18:09:26,176 Overall training accuracy is: 0.745953757225
+INFO 2016-09-22 18:09:26,749 Overall test accuracy is: 0.701834862385
+INFO 2016-09-22 18:09:59,442 Training start
+WARNING 2016-09-22 18:10:00,016 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7ff16e030e90>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-22 18:10:01,312 Sigmoid activation
+INFO 2016-09-22 18:10:26,389 Mean loss in 0th epoch is: 1.26162409782
+INFO 2016-09-22 18:10:31,245 Overall training accuracy is: 0.648121387283
+INFO 2016-09-22 18:10:31,847 Overall test accuracy is: 0.596330275229
+INFO 2016-09-22 18:10:55,175 Mean loss in 1th epoch is: 0.683439612389
+INFO 2016-09-22 18:10:59,896 Overall training accuracy is: 0.694797687861
+INFO 2016-09-22 18:11:00,504 Overall test accuracy is: 0.685779816514
+INFO 2016-09-22 18:11:23,077 Mean loss in 2th epoch is: 0.665113210678
+INFO 2016-09-22 18:11:27,780 Overall training accuracy is: 0.704046242775
+INFO 2016-09-22 18:11:28,419 Overall test accuracy is: 0.690366972477
+INFO 2016-09-22 18:11:51,060 Mean loss in 3th epoch is: 0.661285340786
+INFO 2016-09-22 18:11:55,732 Overall training accuracy is: 0.703323699422
+INFO 2016-09-22 18:11:56,362 Overall test accuracy is: 0.669724770642
+INFO 2016-09-22 18:12:12,188 Mean loss in 4th epoch is: 0.653703212738
+INFO 2016-09-22 18:12:16,880 Overall training accuracy is: 0.724132947977
+INFO 2016-09-22 18:12:17,493 Overall test accuracy is: 0.676605504587
+INFO 2016-09-22 18:12:33,511 Mean loss in 5th epoch is: 0.654878854752
+INFO 2016-09-22 18:12:38,244 Overall training accuracy is: 0.745953757225
+INFO 2016-09-22 18:12:38,858 Overall test accuracy is: 0.697247706422
+INFO 2016-09-22 18:13:01,092 Mean loss in 6th epoch is: 0.638553738594
+INFO 2016-09-22 18:13:05,663 Overall training accuracy is: 0.785549132948
+INFO 2016-09-22 18:13:06,260 Overall test accuracy is: 0.716743119266
+INFO 2016-09-22 18:13:28,566 Mean loss in 7th epoch is: 0.622014582157
+INFO 2016-09-22 18:13:33,279 Overall training accuracy is: 0.813728323699
+INFO 2016-09-22 18:13:33,931 Overall test accuracy is: 0.733944954128
+INFO 2016-09-22 18:13:56,617 Mean loss in 8th epoch is: 0.604191541672
+INFO 2016-09-22 18:14:01,331 Overall training accuracy is: 0.842196531792
+INFO 2016-09-22 18:14:01,962 Overall test accuracy is: 0.75
+INFO 2016-09-22 18:14:23,691 Mean loss in 9th epoch is: 0.576023638248
+INFO 2016-09-22 18:14:28,222 Overall training accuracy is: 0.85838150289
+INFO 2016-09-22 18:14:28,847 Overall test accuracy is: 0.732798165138
+INFO 2016-09-22 18:14:44,591 Mean loss in 10th epoch is: 0.542498707771
+INFO 2016-09-22 18:14:49,184 Overall training accuracy is: 0.890751445087
+INFO 2016-09-22 18:14:49,791 Overall test accuracy is: 0.759174311927
+INFO 2016-09-22 18:15:44,719 Training start
+WARNING 2016-09-22 18:15:45,294 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7fd280dafe90>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-22 18:15:46,552 Sigmoid activation
+INFO 2016-09-22 18:16:12,152 Mean loss in 0th epoch is: 1.28368890285
+INFO 2016-09-22 18:16:16,885 Overall training accuracy is: 0.521676300578
+INFO 2016-09-22 18:16:17,496 Overall test accuracy is: 0.509174311927
+INFO 2016-09-22 18:16:40,889 Mean loss in 1th epoch is: 0.693421959877
+INFO 2016-09-22 18:16:45,482 Overall training accuracy is: 0.521676300578
+INFO 2016-09-22 18:16:46,081 Overall test accuracy is: 0.509174311927
+INFO 2016-09-22 18:17:02,579 Mean loss in 2th epoch is: 0.69332832098
+INFO 2016-09-22 18:17:07,191 Overall training accuracy is: 0.521676300578
+INFO 2016-09-22 18:17:07,771 Overall test accuracy is: 0.509174311927
+INFO 2016-09-22 18:17:24,393 Mean loss in 3th epoch is: 0.694182515144
+INFO 2016-09-22 18:17:28,908 Overall training accuracy is: 0.521676300578
+INFO 2016-09-22 18:17:29,507 Overall test accuracy is: 0.509174311927
+INFO 2016-09-22 18:17:46,068 Mean loss in 4th epoch is: 0.692628741264
+INFO 2016-09-22 18:17:50,594 Overall training accuracy is: 0.521676300578
+INFO 2016-09-22 18:17:51,188 Overall test accuracy is: 0.509174311927
+INFO 2016-09-22 18:18:07,480 Mean loss in 5th epoch is: 0.695358991623
+INFO 2016-09-22 18:18:12,051 Overall training accuracy is: 0.521820809249
+INFO 2016-09-22 18:18:12,652 Overall test accuracy is: 0.509174311927
+INFO 2016-09-22 18:18:29,168 Mean loss in 6th epoch is: 0.681261122227
+INFO 2016-09-22 18:18:33,668 Overall training accuracy is: 0.640895953757
+INFO 2016-09-22 18:18:34,229 Overall test accuracy is: 0.613532110092
+INFO 2016-09-22 18:18:57,263 Mean loss in 7th epoch is: 0.659832835197
+INFO 2016-09-22 18:19:01,686 Overall training accuracy is: 0.762861271676
+INFO 2016-09-22 18:19:02,299 Overall test accuracy is: 0.730504587156
+INFO 2016-09-22 18:19:25,277 Mean loss in 8th epoch is: 0.632472455502
+INFO 2016-09-22 18:19:29,817 Overall training accuracy is: 0.793063583815
+INFO 2016-09-22 18:19:30,394 Overall test accuracy is: 0.723623853211
+INFO 2016-09-22 18:19:46,817 Mean loss in 9th epoch is: 0.61178123951
+INFO 2016-09-22 18:19:51,404 Overall training accuracy is: 0.833815028902
+INFO 2016-09-22 18:19:52,008 Overall test accuracy is: 0.733944954128
+INFO 2016-09-22 18:20:14,792 Mean loss in 10th epoch is: 0.573932349682
+INFO 2016-09-22 18:20:19,215 Overall training accuracy is: 0.864450867052
+INFO 2016-09-22 18:20:19,822 Overall test accuracy is: 0.728211009174
+INFO 2016-09-22 18:20:36,274 Mean loss in 11th epoch is: 0.534449338913
+INFO 2016-09-22 18:20:40,731 Overall training accuracy is: 0.899421965318
+INFO 2016-09-22 18:20:41,179 Overall test accuracy is: 0.756880733945
+INFO 2016-09-22 18:21:03,716 Mean loss in 12th epoch is: 0.474741876125
+INFO 2016-09-22 18:21:08,168 Overall training accuracy is: 0.927601156069
+INFO 2016-09-22 18:21:08,721 Overall test accuracy is: 0.739678899083
+INFO 2016-09-22 18:21:24,965 Mean loss in 13th epoch is: 0.414685457945
+INFO 2016-09-22 18:21:29,465 Overall training accuracy is: 0.948988439306
+INFO 2016-09-22 18:21:29,970 Overall test accuracy is: 0.780963302752
+INFO 2016-09-22 18:21:52,420 Mean loss in 14th epoch is: 0.345390677452
+INFO 2016-09-22 18:21:56,943 Overall training accuracy is: 0.964739884393
+INFO 2016-09-22 18:21:57,499 Overall test accuracy is: 0.751146788991
+INFO 2016-09-22 18:22:13,426 Mean loss in 15th epoch is: 0.295314669609
+INFO 2016-09-22 18:22:17,942 Overall training accuracy is: 0.970375722543
+INFO 2016-09-22 18:22:18,499 Overall test accuracy is: 0.761467889908
+INFO 2016-09-22 18:22:34,809 Mean loss in 16th epoch is: 0.268926739693
+INFO 2016-09-22 18:22:39,372 Overall training accuracy is: 0.979190751445
+INFO 2016-09-22 18:22:39,968 Overall test accuracy is: 0.745412844037
+INFO 2016-09-22 18:22:56,292 Mean loss in 17th epoch is: 0.240337863564
+INFO 2016-09-22 18:23:00,951 Overall training accuracy is: 0.983959537572
+INFO 2016-09-22 18:23:01,522 Overall test accuracy is: 0.770642201835
+INFO 2016-09-22 18:23:17,591 Mean loss in 18th epoch is: 0.223741024733
+INFO 2016-09-22 18:23:22,083 Overall training accuracy is: 0.987572254335
+INFO 2016-09-22 18:23:22,609 Overall test accuracy is: 0.758027522936
+INFO 2016-09-22 18:23:38,656 Mean loss in 19th epoch is: 0.211428537965
+INFO 2016-09-22 18:23:43,196 Overall training accuracy is: 0.989450867052
+INFO 2016-09-22 18:23:43,724 Overall test accuracy is: 0.760321100917
+INFO 2016-09-22 18:23:43,724 Normal Early stop
+INFO 2016-09-22 18:23:43,724 Training complete
+INFO 2016-09-22 18:46:55,699 Training start
+WARNING 2016-09-22 18:46:56,516 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7f07560fcf90>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-22 18:46:57,834 Sigmoid activation
+INFO 2016-09-22 18:47:26,304 Mean loss in 0th epoch is: nan
+INFO 2016-09-22 18:47:33,054 Overall training accuracy is: 0.478323699422
+INFO 2016-09-22 18:47:33,904 Overall test accuracy is: 0.490825688073
+INFO 2016-09-22 18:48:00,773 Training start
+WARNING 2016-09-22 18:48:01,585 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7f043c87ff90>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-22 18:48:02,908 Sigmoid activation
+INFO 2016-09-22 18:48:31,057 Mean loss in 0th epoch is: 1.29145789146
+INFO 2016-09-22 18:48:38,093 Overall training accuracy is: 0.559682080925
+INFO 2016-09-22 18:48:38,940 Overall test accuracy is: 0.526376146789
+INFO 2016-09-22 18:49:04,424 Mean loss in 1th epoch is: 0.711569190025
+INFO 2016-09-22 18:49:11,078 Overall training accuracy is: 0.521676300578
+INFO 2016-09-22 18:49:11,943 Overall test accuracy is: 0.509174311927
+INFO 2016-09-22 18:49:28,689 Mean loss in 2th epoch is: 0.693386375904
+INFO 2016-09-22 18:49:35,387 Overall training accuracy is: 0.521676300578
+INFO 2016-09-22 18:49:36,221 Overall test accuracy is: 0.509174311927
+INFO 2016-09-22 18:49:53,999 Mean loss in 3th epoch is: 0.69248187542
+INFO 2016-09-22 18:50:00,649 Overall training accuracy is: 0.521676300578
+INFO 2016-09-22 18:50:01,511 Overall test accuracy is: 0.509174311927
+INFO 2016-09-22 18:50:19,370 Mean loss in 4th epoch is: 0.69249612093
+INFO 2016-09-22 18:50:26,054 Overall training accuracy is: 0.521676300578
+INFO 2016-09-22 18:50:26,925 Overall test accuracy is: 0.509174311927
+INFO 2016-09-22 18:50:44,977 Mean loss in 5th epoch is: 0.692498266697
+INFO 2016-09-22 18:50:51,699 Overall training accuracy is: 0.521676300578
+INFO 2016-09-22 18:50:52,535 Overall test accuracy is: 0.509174311927
+INFO 2016-09-22 18:51:10,468 Mean loss in 6th epoch is: 0.69254386425
+INFO 2016-09-22 18:51:16,984 Overall training accuracy is: 0.521676300578
+INFO 2016-09-22 18:51:17,840 Overall test accuracy is: 0.509174311927
+INFO 2016-09-22 18:51:17,840 Normal Early stop
+INFO 2016-09-22 18:51:17,840 Training complete
+INFO 2016-09-22 19:03:35,765 Training start
+WARNING 2016-09-22 19:03:36,926 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7f990066bf90>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-22 19:03:38,533 Sigmoid activation
+INFO 2016-09-22 19:04:05,959 Mean loss in 0th epoch is: 1.30200517178
+INFO 2016-09-22 19:04:12,953 Overall training accuracy is: 0.521676300578
+INFO 2016-09-22 19:04:13,805 Overall test accuracy is: 0.509174311927
+INFO 2016-09-22 19:04:38,597 Mean loss in 1th epoch is: 0.693613350391
+INFO 2016-09-22 19:04:45,219 Overall training accuracy is: 0.521676300578
+INFO 2016-09-22 19:04:46,090 Overall test accuracy is: 0.509174311927
+INFO 2016-09-22 19:05:03,448 Mean loss in 2th epoch is: 0.693222522736
+INFO 2016-09-22 19:05:10,000 Overall training accuracy is: 0.521676300578
+INFO 2016-09-22 19:05:10,847 Overall test accuracy is: 0.509174311927
+INFO 2016-09-22 19:05:28,252 Mean loss in 3th epoch is: 0.693860769272
+INFO 2016-09-22 19:05:34,872 Overall training accuracy is: 0.521676300578
+INFO 2016-09-22 19:05:35,709 Overall test accuracy is: 0.509174311927
+INFO 2016-09-22 19:05:52,917 Mean loss in 4th epoch is: 0.69247251749
+INFO 2016-09-22 19:05:59,419 Overall training accuracy is: 0.521676300578
+INFO 2016-09-22 19:06:00,283 Overall test accuracy is: 0.509174311927
+INFO 2016-09-22 19:06:18,023 Mean loss in 5th epoch is: 0.692639529705
+INFO 2016-09-22 19:06:24,477 Overall training accuracy is: 0.521676300578
+INFO 2016-09-22 19:06:25,322 Overall test accuracy is: 0.509174311927
+INFO 2016-09-22 19:06:42,622 Mean loss in 6th epoch is: 0.670590221882
+INFO 2016-09-22 19:06:49,261 Overall training accuracy is: 0.682369942197
+INFO 2016-09-22 19:06:50,099 Overall test accuracy is: 0.637614678899
+INFO 2016-09-22 19:07:14,222 Mean loss in 7th epoch is: 0.652201712132
+INFO 2016-09-22 19:07:20,704 Overall training accuracy is: 0.679335260116
+INFO 2016-09-22 19:07:21,555 Overall test accuracy is: 0.625
+INFO 2016-09-22 19:07:38,840 Mean loss in 8th epoch is: 0.632508039474
+INFO 2016-09-22 19:07:45,394 Overall training accuracy is: 0.789884393064
+INFO 2016-09-22 19:07:46,232 Overall test accuracy is: 0.721330275229
+INFO 2016-09-22 19:08:10,300 Mean loss in 9th epoch is: 0.606048345566
+INFO 2016-09-22 19:08:16,740 Overall training accuracy is: 0.835693641618
+INFO 2016-09-22 19:08:17,616 Overall test accuracy is: 0.748853211009
+INFO 2016-09-22 19:08:42,179 Mean loss in 10th epoch is: 0.574175179005
+INFO 2016-09-22 19:08:48,707 Overall training accuracy is: 0.866329479769
+INFO 2016-09-22 19:08:49,508 Overall test accuracy is: 0.724770642202
+INFO 2016-09-22 19:09:06,807 Mean loss in 11th epoch is: 0.521895289421
+INFO 2016-09-22 19:09:13,300 Overall training accuracy is: 0.901156069364
+INFO 2016-09-22 19:09:14,140 Overall test accuracy is: 0.741972477064
+INFO 2016-09-22 19:09:31,287 Mean loss in 12th epoch is: 0.461144119501
+INFO 2016-09-22 19:09:37,688 Overall training accuracy is: 0.927601156069
+INFO 2016-09-22 19:09:38,371 Overall test accuracy is: 0.751146788991
+INFO 2016-09-22 19:10:02,757 Mean loss in 13th epoch is: 0.403540849686
+INFO 2016-09-22 19:10:09,372 Overall training accuracy is: 0.949277456647
+INFO 2016-09-22 19:10:10,192 Overall test accuracy is: 0.761467889908
+INFO 2016-09-22 19:10:34,262 Mean loss in 14th epoch is: 0.337990581989
+INFO 2016-09-22 19:10:40,723 Overall training accuracy is: 0.96098265896
+INFO 2016-09-22 19:10:41,546 Overall test accuracy is: 0.738532110092
+INFO 2016-09-22 19:10:58,654 Mean loss in 15th epoch is: 0.288056880236
+INFO 2016-09-22 19:11:05,202 Overall training accuracy is: 0.975867052023
+INFO 2016-09-22 19:11:06,022 Overall test accuracy is: 0.759174311927
+INFO 2016-09-22 19:11:23,286 Mean loss in 16th epoch is: 0.254636019468
+INFO 2016-09-22 19:11:29,682 Overall training accuracy is: 0.981647398844
+INFO 2016-09-22 19:11:30,498 Overall test accuracy is: 0.769495412844
+INFO 2016-09-22 19:11:54,757 Mean loss in 17th epoch is: 0.234268084168
+INFO 2016-09-22 19:12:01,145 Overall training accuracy is: 0.986271676301
+INFO 2016-09-22 19:12:01,967 Overall test accuracy is: 0.762614678899
+INFO 2016-09-22 19:12:19,264 Mean loss in 18th epoch is: 0.219043761492
+INFO 2016-09-22 19:12:25,815 Overall training accuracy is: 0.988005780347
+INFO 2016-09-22 19:12:26,660 Overall test accuracy is: 0.755733944954
+INFO 2016-09-22 19:12:43,824 Mean loss in 19th epoch is: 0.210508659482
+INFO 2016-09-22 19:12:50,247 Overall training accuracy is: 0.98901734104
+INFO 2016-09-22 19:12:51,078 Overall test accuracy is: 0.761467889908
+INFO 2016-09-22 19:13:08,346 Mean loss in 20th epoch is: 0.203946769238
+INFO 2016-09-22 19:13:14,924 Overall training accuracy is: 0.989450867052
+INFO 2016-09-22 19:13:15,786 Overall test accuracy is: 0.761467889908
+INFO 2016-09-22 19:13:33,004 Mean loss in 21th epoch is: 0.200008392334
+INFO 2016-09-22 19:13:39,529 Overall training accuracy is: 0.990317919075
+INFO 2016-09-22 19:13:40,385 Overall test accuracy is: 0.767201834862
+INFO 2016-09-22 19:13:57,717 Mean loss in 22th epoch is: 0.197185814381
+INFO 2016-09-22 19:14:04,286 Overall training accuracy is: 0.99161849711
+INFO 2016-09-22 19:14:05,116 Overall test accuracy is: 0.768348623853
+INFO 2016-09-22 19:14:05,116 Normal Early stop
+INFO 2016-09-22 19:14:05,116 Training complete
+INFO 2016-09-22 19:25:42,234 Training start
+WARNING 2016-09-22 19:25:43,118 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7f214e53ff90>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-22 19:25:44,548 Sigmoid activation
+INFO 2016-09-22 19:26:13,014 Mean loss in 0th epoch is: 1.2659085989
+INFO 2016-09-22 19:26:19,852 Overall training accuracy is: 0.521676300578
+INFO 2016-09-22 19:26:20,692 Overall test accuracy is: 0.509174311927
+INFO 2016-09-22 19:26:46,488 Mean loss in 1th epoch is: 0.693981707096
+INFO 2016-09-22 19:26:53,050 Overall training accuracy is: 0.521676300578
+INFO 2016-09-22 19:26:53,876 Overall test accuracy is: 0.509174311927
+INFO 2016-09-22 19:27:11,983 Mean loss in 2th epoch is: 0.694752216339
+INFO 2016-09-22 19:27:18,414 Overall training accuracy is: 0.521676300578
+INFO 2016-09-22 19:27:19,281 Overall test accuracy is: 0.509174311927
+INFO 2016-09-22 19:27:37,475 Mean loss in 3th epoch is: 0.694449663162
+INFO 2016-09-22 19:27:43,562 Overall training accuracy is: 0.521676300578
+INFO 2016-09-22 19:27:44,179 Overall test accuracy is: 0.509174311927
+INFO 2016-09-22 19:28:01,699 Mean loss in 4th epoch is: 0.692748188972
+INFO 2016-09-22 19:28:08,001 Overall training accuracy is: 0.521676300578
+INFO 2016-09-22 19:28:08,780 Overall test accuracy is: 0.509174311927
+INFO 2016-09-22 19:28:26,791 Mean loss in 5th epoch is: 0.692513883114
+INFO 2016-09-22 19:28:33,030 Overall training accuracy is: 0.521676300578
+INFO 2016-09-22 19:28:33,844 Overall test accuracy is: 0.509174311927
+INFO 2016-09-22 19:28:51,818 Mean loss in 6th epoch is: 0.692786872387
+INFO 2016-09-22 19:28:58,176 Overall training accuracy is: 0.521676300578
+INFO 2016-09-22 19:28:58,993 Overall test accuracy is: 0.509174311927
+INFO 2016-09-22 19:28:58,993 Normal Early stop
+INFO 2016-09-22 19:28:58,993 Training complete
+INFO 2016-09-22 19:31:24,387 Training start
+WARNING 2016-09-22 19:31:25,160 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7f8179ffdf90>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-22 19:31:26,785 Sigmoid activation
+INFO 2016-09-22 19:31:59,531 Mean loss in 0th epoch is: 1.28765952587
+INFO 2016-09-22 19:32:06,395 Overall training accuracy is: 0.676300578035
+INFO 2016-09-22 19:32:07,260 Overall test accuracy is: 0.69380733945
+INFO 2016-09-22 19:32:33,365 Mean loss in 1th epoch is: 0.680330216885
+INFO 2016-09-22 19:32:40,008 Overall training accuracy is: 0.702601156069
+INFO 2016-09-22 19:32:40,862 Overall test accuracy is: 0.699541284404
+INFO 2016-09-22 19:33:06,690 Mean loss in 2th epoch is: 0.673036634922
+INFO 2016-09-22 19:33:13,129 Overall training accuracy is: 0.650722543353
+INFO 2016-09-22 19:33:13,992 Overall test accuracy is: 0.633027522936
+INFO 2016-09-22 19:33:32,596 Mean loss in 3th epoch is: 0.671933114529
+INFO 2016-09-22 19:33:38,972 Overall training accuracy is: 0.68612716763
+INFO 2016-09-22 19:33:39,816 Overall test accuracy is: 0.634174311927
+INFO 2016-09-22 19:33:58,260 Mean loss in 4th epoch is: 0.660892903805
+INFO 2016-09-22 19:34:04,678 Overall training accuracy is: 0.724277456647
+INFO 2016-09-22 19:34:05,479 Overall test accuracy is: 0.699541284404
+INFO 2016-09-22 19:34:24,360 Mean loss in 5th epoch is: 0.64811861515
+INFO 2016-09-22 19:34:30,720 Overall training accuracy is: 0.750433526012
+INFO 2016-09-22 19:34:31,574 Overall test accuracy is: 0.712155963303
+INFO 2016-09-22 19:34:56,634 Mean loss in 6th epoch is: 0.642598211765
+INFO 2016-09-22 19:35:03,178 Overall training accuracy is: 0.778179190751
+INFO 2016-09-22 19:35:04,033 Overall test accuracy is: 0.716743119266
+INFO 2016-09-22 19:36:47,446 Training start
+WARNING 2016-09-22 19:36:48,215 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7f370c002f90>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-22 19:36:49,582 Sigmoid activation
+INFO 2016-09-22 19:37:16,293 Mean loss in 0th epoch is: 0.852698862553
+INFO 2016-09-22 19:37:22,662 Overall training accuracy is: 0.521676300578
+INFO 2016-09-22 19:37:23,436 Overall test accuracy is: 0.509174311927
+INFO 2016-09-22 19:37:48,021 Mean loss in 1th epoch is: 0.692557513714
+INFO 2016-09-22 19:37:53,995 Overall training accuracy is: 0.521676300578
+INFO 2016-09-22 19:37:54,768 Overall test accuracy is: 0.509174311927
+INFO 2016-09-22 19:38:11,730 Mean loss in 2th epoch is: 0.692699790001
+INFO 2016-09-22 19:38:17,751 Overall training accuracy is: 0.521676300578
+INFO 2016-09-22 19:38:18,517 Overall test accuracy is: 0.509174311927
+INFO 2016-09-22 19:38:35,180 Mean loss in 3th epoch is: 0.692515492439
+INFO 2016-09-22 19:38:41,105 Overall training accuracy is: 0.521676300578
+INFO 2016-09-22 19:38:41,891 Overall test accuracy is: 0.509174311927
+INFO 2016-09-22 19:38:58,839 Mean loss in 4th epoch is: 0.692529737949
+INFO 2016-09-22 19:39:04,769 Overall training accuracy is: 0.521676300578
+INFO 2016-09-22 19:39:05,495 Overall test accuracy is: 0.509174311927
+INFO 2016-09-22 19:39:22,228 Mean loss in 5th epoch is: 0.692494928837
+INFO 2016-09-22 19:39:27,948 Overall training accuracy is: 0.521676300578
+INFO 2016-09-22 19:39:28,708 Overall test accuracy is: 0.509174311927
+INFO 2016-09-22 19:39:45,237 Mean loss in 6th epoch is: 0.692458987236
+INFO 2016-09-22 19:39:51,091 Overall training accuracy is: 0.521676300578
+INFO 2016-09-22 19:39:51,873 Overall test accuracy is: 0.509174311927
+INFO 2016-09-22 19:39:51,873 Normal Early stop
+INFO 2016-09-22 19:39:51,874 Training complete
+INFO 2016-09-22 19:41:56,570 Training start
+WARNING 2016-09-22 19:41:57,082 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7fe8ddee53d0>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-22 19:41:58,358 Sigmoid activation
+INFO 2016-09-22 19:42:21,860 Mean loss in 0th epoch is: 0.838699281216
+INFO 2016-09-22 19:42:26,346 Overall training accuracy is: 0.698121387283
+INFO 2016-09-22 19:42:26,917 Overall test accuracy is: 0.689220183486
+INFO 2016-09-22 19:42:48,084 Mean loss in 1th epoch is: 0.686971247196
+INFO 2016-09-22 19:42:52,260 Overall training accuracy is: 0.673410404624
+INFO 2016-09-22 19:42:52,718 Overall test accuracy is: 0.642201834862
+INFO 2016-09-22 19:43:07,329 Mean loss in 2th epoch is: 0.678346276283
+INFO 2016-09-22 19:43:11,690 Overall training accuracy is: 0.704046242775
+INFO 2016-09-22 19:43:12,247 Overall test accuracy is: 0.713302752294
+INFO 2016-09-22 19:43:32,963 Mean loss in 3th epoch is: 0.672294974327
+INFO 2016-09-22 19:43:37,103 Overall training accuracy is: 0.663439306358
+INFO 2016-09-22 19:43:37,649 Overall test accuracy is: 0.635321100917
+INFO 2016-09-22 19:43:52,199 Mean loss in 4th epoch is: 0.663870751858
+INFO 2016-09-22 19:43:56,342 Overall training accuracy is: 0.723988439306
+INFO 2016-09-22 19:43:56,838 Overall test accuracy is: 0.705275229358
+INFO 2016-09-22 19:44:11,477 Mean loss in 5th epoch is: 0.664101362228
+INFO 2016-09-22 19:44:15,708 Overall training accuracy is: 0.745375722543
+INFO 2016-09-22 19:44:16,278 Overall test accuracy is: 0.690366972477
+INFO 2016-09-22 19:44:31,121 Mean loss in 6th epoch is: 0.646472930908
+INFO 2016-09-22 19:44:35,219 Overall training accuracy is: 0.77210982659
+INFO 2016-09-22 19:44:35,750 Overall test accuracy is: 0.717889908257
+INFO 2016-09-22 19:44:56,711 Mean loss in 7th epoch is: 0.641624391079
+INFO 2016-09-22 19:45:01,001 Overall training accuracy is: 0.80563583815
+INFO 2016-09-22 19:45:01,518 Overall test accuracy is: 0.713302752294
+INFO 2016-09-22 19:45:16,024 Mean loss in 8th epoch is: 0.623435854912
+INFO 2016-09-22 19:45:20,218 Overall training accuracy is: 0.816473988439
+INFO 2016-09-22 19:45:20,757 Overall test accuracy is: 0.716743119266
+INFO 2016-09-22 19:45:35,353 Mean loss in 9th epoch is: 0.599463939667
+INFO 2016-09-22 19:45:39,495 Overall training accuracy is: 0.852023121387
+INFO 2016-09-22 19:45:40,020 Overall test accuracy is: 0.745412844037
+INFO 2016-09-22 19:46:00,812 Mean loss in 10th epoch is: 0.564782559872
+INFO 2016-09-22 19:46:05,068 Overall training accuracy is: 0.879913294798
+INFO 2016-09-22 19:46:05,605 Overall test accuracy is: 0.747706422018
+INFO 2016-09-22 19:46:26,410 Mean loss in 11th epoch is: 0.524120569229
+INFO 2016-09-22 19:46:30,682 Overall training accuracy is: 0.910115606936
+INFO 2016-09-22 19:46:31,236 Overall test accuracy is: 0.759174311927
+INFO 2016-09-22 19:46:52,489 Mean loss in 12th epoch is: 0.471395224333
+INFO 2016-09-22 19:46:56,722 Overall training accuracy is: 0.929913294798
+INFO 2016-09-22 19:46:57,240 Overall test accuracy is: 0.752293577982
+INFO 2016-09-22 19:47:11,947 Mean loss in 13th epoch is: 0.416630148888
+INFO 2016-09-22 19:47:16,172 Overall training accuracy is: 0.944797687861
+INFO 2016-09-22 19:47:16,742 Overall test accuracy is: 0.75
+INFO 2016-09-22 19:47:31,107 Mean loss in 14th epoch is: 0.36440846324
+INFO 2016-09-22 19:47:35,322 Overall training accuracy is: 0.957514450867
+INFO 2016-09-22 19:47:35,896 Overall test accuracy is: 0.760321100917
+INFO 2016-09-22 19:47:56,289 Mean loss in 15th epoch is: 0.327186584473
+INFO 2016-09-22 19:48:00,438 Overall training accuracy is: 0.971820809249
+INFO 2016-09-22 19:48:00,955 Overall test accuracy is: 0.767201834862
+INFO 2016-09-22 19:48:22,469 Mean loss in 16th epoch is: 0.285345494747
+INFO 2016-09-22 19:48:26,695 Overall training accuracy is: 0.980202312139
+INFO 2016-09-22 19:48:27,245 Overall test accuracy is: 0.764908256881
+INFO 2016-09-22 19:48:41,784 Mean loss in 17th epoch is: 0.25986301899
+INFO 2016-09-22 19:48:46,018 Overall training accuracy is: 0.982803468208
+INFO 2016-09-22 19:48:46,543 Overall test accuracy is: 0.766055045872
+INFO 2016-09-22 19:49:01,056 Mean loss in 18th epoch is: 0.246828436852
+INFO 2016-09-22 19:49:05,323 Overall training accuracy is: 0.986560693642
+INFO 2016-09-22 19:49:05,859 Overall test accuracy is: 0.756880733945
+INFO 2016-09-22 19:49:20,239 Mean loss in 19th epoch is: 0.234420999885
+INFO 2016-09-22 19:49:23,566 Overall training accuracy is: 0.987716763006
+INFO 2016-09-22 19:49:24,066 Overall test accuracy is: 0.760321100917
+INFO 2016-09-22 19:49:38,585 Mean loss in 20th epoch is: 0.2309166044
+INFO 2016-09-22 19:49:42,765 Overall training accuracy is: 0.986271676301
+INFO 2016-09-22 19:49:43,296 Overall test accuracy is: 0.756880733945
+INFO 2016-09-22 19:49:58,112 Mean loss in 21th epoch is: 0.226547509432
+INFO 2016-09-22 19:50:02,302 Overall training accuracy is: 0.988583815029
+INFO 2016-09-22 19:50:02,836 Overall test accuracy is: 0.758027522936
+INFO 2016-09-22 19:50:02,836 Normal Early stop
+INFO 2016-09-22 19:50:02,836 Training complete
+WARNING 2016-09-22 19:52:10,012 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7f71f2e529d0>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-22 19:52:11,252 Sigmoid activation
+INFO 2016-09-22 19:52:21,065 ==============================TEST RUN START==============================
+INFO 2016-09-22 19:52:21,066 Overall test accuracy is: 0.748489840747
+INFO 2016-09-22 19:52:21,066 ==============================TEST RUN END==============================
+WARNING 2016-09-22 21:02:31,497 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7f8830060f10>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-22 21:02:32,799 Sigmoid activation
+INFO 2016-09-22 21:02:43,839 ==============================TEST RUN START==============================
+INFO 2016-09-22 21:02:43,839 Overall test accuracy is: 0.748489840747
+INFO 2016-09-22 21:02:43,840 ==============================TEST RUN END==============================
+WARNING 2016-09-22 21:04:43,103 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7f951cf36f10>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-22 21:04:44,461 Sigmoid activation
+INFO 2016-09-22 21:04:56,120 ==============================TEST RUN START==============================
+INFO 2016-09-22 21:04:56,120 Overall test accuracy is: 0.748489840747
+INFO 2016-09-22 21:04:56,120 ==============================TEST RUN END==============================
+WARNING 2016-09-22 21:08:41,209 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7fe6f5dc5f10>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-22 21:08:42,516 Sigmoid activation
+WARNING 2016-09-22 21:11:57,822 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7f41c591df10>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-22 21:11:59,216 Sigmoid activation
+INFO 2016-09-22 21:12:10,425 ==============================TEST RUN START==============================
+INFO 2016-09-22 21:12:10,425 Overall test accuracy is: 0.748489840747
+INFO 2016-09-22 21:12:10,425 ==============================TEST RUN END==============================
+WARNING 2016-09-22 21:42:18,541 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7fce7e3def10>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-22 21:42:19,880 Sigmoid activation
+WARNING 2016-09-22 21:45:16,111 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7f227f14ef10>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-22 21:45:17,435 Sigmoid activation
+INFO 2016-09-22 21:45:28,618 ==============================TEST RUN START==============================
+INFO 2016-09-22 21:45:28,619 Overall test accuracy is: 0.748489840747
+INFO 2016-09-22 21:45:28,619 ==============================TEST RUN END==============================
+WARNING 2016-09-22 21:46:46,960 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7faf9c330f10>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-22 21:46:48,338 Sigmoid activation
+INFO 2016-09-22 21:46:59,455 ==============================TEST RUN START==============================
+INFO 2016-09-22 21:46:59,456 Overall test accuracy is: 0.748489840747
+INFO 2016-09-22 21:46:59,456 ==============================TEST RUN END==============================
+WARNING 2016-09-22 21:47:07,715 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7f9a541a0f10>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-22 21:47:08,938 Sigmoid activation
+INFO 2016-09-22 21:47:20,101 ==============================TEST RUN START==============================
+INFO 2016-09-22 21:47:20,101 Overall test accuracy is: 0.748489840747
+INFO 2016-09-22 21:47:20,102 ==============================TEST RUN END==============================
+WARNING 2016-09-22 21:55:56,909 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7f241d831f10>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-22 21:55:58,241 Sigmoid activation
+INFO 2016-09-22 21:56:09,396 ==============================TEST RUN START==============================
+INFO 2016-09-22 21:56:09,397 Overall test accuracy is: 0.748489840747
+INFO 2016-09-22 21:56:09,397 ==============================TEST RUN END==============================
+WARNING 2016-09-22 22:09:46,147 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7f2828ef4f90>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-22 22:09:47,553 Sigmoid activation
+WARNING 2016-09-22 22:11:28,623 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7f2454505f90>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-22 22:11:29,984 Sigmoid activation
+INFO 2016-09-22 22:11:53,391 Training start
+WARNING 2016-09-22 22:11:54,180 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7fa4b7a9bf90>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-22 22:11:55,559 Sigmoid activation
+INFO 2016-09-22 22:12:22,675 Mean loss in 0th epoch is: 0.840937674046
+INFO 2016-09-22 22:12:23,677 Overall test accuracy is: 0.490825688073
+INFO 2016-09-22 22:12:54,690 Training start
+WARNING 2016-09-22 22:12:55,377 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7f2e290d0f90>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-22 22:12:56,634 Sigmoid activation
+INFO 2016-09-22 22:13:08,620 Mean loss in 0th epoch is: 1.79240202904
+INFO 2016-09-22 22:13:09,013 Overall test accuracy is: 0.670871559633
+INFO 2016-09-22 22:13:18,582 Mean loss in 1th epoch is: 0.685932576656
+INFO 2016-09-22 22:13:18,713 Overall test accuracy is: 0.748853211009
+INFO 2016-09-22 22:13:27,762 Mean loss in 2th epoch is: 0.640507996082
+INFO 2016-09-22 22:13:27,889 Overall test accuracy is: 0.719036697248
+INFO 2016-09-22 22:13:30,269 Mean loss in 3th epoch is: 0.682595133781
+INFO 2016-09-22 22:13:30,399 Overall test accuracy is: 0.721330275229
+INFO 2016-09-22 22:13:32,746 Mean loss in 4th epoch is: 0.681988060474
+INFO 2016-09-22 22:13:32,883 Overall test accuracy is: 0.728211009174
+INFO 2016-09-22 22:13:35,254 Mean loss in 5th epoch is: 0.630665183067
+INFO 2016-09-22 22:13:35,353 Overall test accuracy is: 0.705275229358
+INFO 2016-09-22 22:13:37,673 Mean loss in 6th epoch is: 0.612942457199
+INFO 2016-09-22 22:13:37,792 Overall test accuracy is: 0.744266055046
+INFO 2016-09-22 22:13:40,164 Mean loss in 7th epoch is: 0.610228717327
+INFO 2016-09-22 22:13:40,293 Overall test accuracy is: 0.725917431193
+INFO 2016-09-22 22:13:40,293 Normal Early stop
+INFO 2016-09-22 22:13:40,293 Training complete
+WARNING 2016-09-22 22:13:57,527 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7fc18e81df90>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-22 22:13:58,830 Sigmoid activation
+INFO 2016-09-22 22:14:08,770 ==============================TEST RUN START==============================
+INFO 2016-09-22 22:14:08,771 Overall test accuracy is: 0.74574409665
+INFO 2016-09-22 22:14:08,771 ==============================TEST RUN END==============================
+INFO 2016-09-22 23:18:37,688 Training start
+WARNING 2016-09-22 23:18:38,499 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7f8252fc6f90>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-22 23:18:39,869 Sigmoid activation
+INFO 2016-09-22 23:18:52,048 Mean loss in 0th epoch is: 2.14625382423
+INFO 2016-09-22 23:18:52,418 Overall test accuracy is: 0.753440366972
+INFO 2016-09-22 23:19:02,019 Mean loss in 1th epoch is: 0.440526753664
+INFO 2016-09-22 23:19:02,143 Overall test accuracy is: 0.759174311927
+INFO 2016-09-22 23:19:11,410 Mean loss in 2th epoch is: 0.212979197502
+INFO 2016-09-22 23:19:11,543 Overall test accuracy is: 0.756880733945
+INFO 2016-09-22 23:19:13,753 Mean loss in 3th epoch is: 0.178311139345
+INFO 2016-09-22 23:19:13,875 Overall test accuracy is: 0.756880733945
+INFO 2016-09-22 23:19:16,143 Mean loss in 4th epoch is: 0.153104588389
+INFO 2016-09-22 23:19:16,271 Overall test accuracy is: 0.744266055046
+INFO 2016-09-22 23:19:18,455 Mean loss in 5th epoch is: 0.145988047123
+INFO 2016-09-22 23:19:18,576 Overall test accuracy is: 0.747706422018
+INFO 2016-09-22 23:19:20,782 Mean loss in 6th epoch is: 0.136154159904
+INFO 2016-09-22 23:19:20,908 Overall test accuracy is: 0.758027522936
+INFO 2016-09-22 23:19:23,194 Mean loss in 7th epoch is: 0.133487194777
+INFO 2016-09-22 23:19:23,324 Overall test accuracy is: 0.754587155963
+INFO 2016-09-22 23:19:23,324 Normal Early stop
+INFO 2016-09-22 23:19:23,325 Training complete
+INFO 2016-09-22 23:19:33,800 Training start
+WARNING 2016-09-22 23:19:34,615 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7f1eb00f4f90>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-22 23:19:35,963 Sigmoid activation
+INFO 2016-09-22 23:19:48,361 Mean loss in 0th epoch is: 2.08894824982
+INFO 2016-09-22 23:19:49,425 Overall training accuracy is: 0.886994219653
+INFO 2016-09-22 23:19:49,562 Overall test accuracy is: 0.774082568807
+INFO 2016-09-22 23:19:59,205 Mean loss in 1th epoch is: 0.403926461935
+INFO 2016-09-22 23:20:00,098 Overall training accuracy is: 0.936271676301
+INFO 2016-09-22 23:20:00,220 Overall test accuracy is: 0.744266055046
+INFO 2016-09-22 23:20:02,591 Mean loss in 2th epoch is: 0.227130413055
+INFO 2016-09-22 23:20:03,474 Overall training accuracy is: 0.980057803468
+INFO 2016-09-22 23:20:03,603 Overall test accuracy is: 0.767201834862
+INFO 2016-09-22 23:20:05,909 Mean loss in 3th epoch is: 0.182196751237
+INFO 2016-09-22 23:20:06,810 Overall training accuracy is: 0.985838150289
+INFO 2016-09-22 23:20:06,935 Overall test accuracy is: 0.745412844037
+INFO 2016-09-22 23:20:09,216 Mean loss in 4th epoch is: 0.156346574426
+INFO 2016-09-22 23:20:10,138 Overall training accuracy is: 0.989739884393
+INFO 2016-09-22 23:20:10,268 Overall test accuracy is: 0.751146788991
+INFO 2016-09-22 23:20:12,601 Mean loss in 5th epoch is: 0.145506158471
+INFO 2016-09-22 23:20:13,518 Overall training accuracy is: 0.992052023121
+INFO 2016-09-22 23:20:13,645 Overall test accuracy is: 0.761467889908
+INFO 2016-09-22 23:20:15,981 Mean loss in 6th epoch is: 0.141026690602
+INFO 2016-09-22 23:20:16,865 Overall training accuracy is: 0.993930635838
+INFO 2016-09-22 23:20:16,994 Overall test accuracy is: 0.739678899083
+INFO 2016-09-22 23:20:16,994 Normal Early stop
+INFO 2016-09-22 23:20:16,994 Training complete
+INFO 2016-09-22 23:20:48,238 Training start
+WARNING 2016-09-22 23:20:49,106 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7fc198bd5f90>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-22 23:20:50,494 Sigmoid activation
+INFO 2016-09-22 23:21:02,441 Mean loss in 0th epoch is: 3.30097484589
+INFO 2016-09-22 23:21:03,525 Overall training accuracy is: 0.807514450867
+INFO 2016-09-22 23:21:03,656 Overall test accuracy is: 0.711009174312
+INFO 2016-09-22 23:21:13,028 Mean loss in 1th epoch is: 0.514199972153
+INFO 2016-09-22 23:21:13,934 Overall training accuracy is: 0.958670520231
+INFO 2016-09-22 23:21:14,060 Overall test accuracy is: 0.762614678899
+INFO 2016-09-22 23:21:23,006 Mean loss in 2th epoch is: 0.278441905975
+INFO 2016-09-22 23:21:23,878 Overall training accuracy is: 0.974855491329
+INFO 2016-09-22 23:21:24,011 Overall test accuracy is: 0.766055045872
+INFO 2016-09-22 23:21:32,941 Mean loss in 3th epoch is: 0.228367641568
+INFO 2016-09-22 23:21:33,683 Overall training accuracy is: 0.985115606936
+INFO 2016-09-22 23:21:33,790 Overall test accuracy is: 0.760321100917
+INFO 2016-09-22 23:21:36,117 Mean loss in 4th epoch is: 0.208239480853
+INFO 2016-09-22 23:21:37,016 Overall training accuracy is: 0.984971098266
+INFO 2016-09-22 23:21:37,145 Overall test accuracy is: 0.759174311927
+INFO 2016-09-22 23:21:39,446 Mean loss in 5th epoch is: 0.203086361289
+INFO 2016-09-22 23:21:40,367 Overall training accuracy is: 0.992341040462
+INFO 2016-09-22 23:21:40,484 Overall test accuracy is: 0.769495412844
+INFO 2016-09-22 23:21:49,271 Mean loss in 6th epoch is: 0.198742315173
+INFO 2016-09-22 23:21:50,159 Overall training accuracy is: 0.991907514451
+INFO 2016-09-22 23:21:50,289 Overall test accuracy is: 0.755733944954
+INFO 2016-09-22 23:21:52,596 Mean loss in 7th epoch is: 0.196844086051
+INFO 2016-09-22 23:21:53,465 Overall training accuracy is: 0.990173410405
+INFO 2016-09-22 23:21:53,597 Overall test accuracy is: 0.751146788991
+INFO 2016-09-22 23:21:55,918 Mean loss in 8th epoch is: 0.198064863682
+INFO 2016-09-22 23:21:56,771 Overall training accuracy is: 0.993497109827
+INFO 2016-09-22 23:21:56,892 Overall test accuracy is: 0.746559633028
+INFO 2016-09-22 23:21:59,220 Mean loss in 9th epoch is: 0.190665543079
+INFO 2016-09-22 23:22:00,077 Overall training accuracy is: 0.994219653179
+INFO 2016-09-22 23:22:00,200 Overall test accuracy is: 0.754587155963
+INFO 2016-09-22 23:22:02,453 Mean loss in 10th epoch is: 0.189180582762
+INFO 2016-09-22 23:22:03,280 Overall training accuracy is: 0.992630057803
+INFO 2016-09-22 23:22:03,398 Overall test accuracy is: 0.756880733945
+INFO 2016-09-22 23:22:05,755 Mean loss in 11th epoch is: 0.191286250949
+INFO 2016-09-22 23:22:06,645 Overall training accuracy is: 0.993208092486
+INFO 2016-09-22 23:22:06,776 Overall test accuracy is: 0.753440366972
+INFO 2016-09-22 23:22:06,776 Normal Early stop
+INFO 2016-09-22 23:22:06,776 Training complete
+INFO 2016-09-22 23:26:25,951 Training start
+WARNING 2016-09-22 23:26:26,754 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7f56492e5f90>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-22 23:26:28,083 Sigmoid activation
+INFO 2016-09-22 23:26:39,789 Mean loss in 0th epoch is: 11.2837057114
+INFO 2016-09-22 23:26:40,896 Overall training accuracy is: 0.778468208092
+INFO 2016-09-22 23:26:41,025 Overall test accuracy is: 0.698394495413
+INFO 2016-09-22 23:26:50,879 Mean loss in 1th epoch is: 1.02616989613
+INFO 2016-09-22 23:26:51,745 Overall training accuracy is: 0.891184971098
+INFO 2016-09-22 23:26:51,871 Overall test accuracy is: 0.746559633028
+INFO 2016-09-22 23:27:01,018 Mean loss in 2th epoch is: 0.556200385094
+INFO 2016-09-22 23:27:01,926 Overall training accuracy is: 0.940028901734
+INFO 2016-09-22 23:27:02,057 Overall test accuracy is: 0.769495412844
+INFO 2016-09-22 23:27:11,203 Mean loss in 3th epoch is: 0.490069031715
+INFO 2016-09-22 23:27:12,104 Overall training accuracy is: 0.953901734104
+INFO 2016-09-22 23:27:12,237 Overall test accuracy is: 0.768348623853
+INFO 2016-09-22 23:27:14,468 Mean loss in 4th epoch is: 0.472367793322
+INFO 2016-09-22 23:27:15,367 Overall training accuracy is: 0.96112716763
+INFO 2016-09-22 23:27:15,490 Overall test accuracy is: 0.774082568807
+INFO 2016-09-22 23:27:24,398 Mean loss in 5th epoch is: 0.465533822775
+INFO 2016-09-22 23:27:25,289 Overall training accuracy is: 0.96401734104
+INFO 2016-09-22 23:27:25,417 Overall test accuracy is: 0.759174311927
+INFO 2016-09-22 23:27:27,768 Mean loss in 6th epoch is: 0.462468028069
+INFO 2016-09-22 23:27:28,665 Overall training accuracy is: 0.96661849711
+INFO 2016-09-22 23:27:28,790 Overall test accuracy is: 0.764908256881
+INFO 2016-09-22 23:27:31,116 Mean loss in 7th epoch is: 0.459103614092
+INFO 2016-09-22 23:27:32,022 Overall training accuracy is: 0.968497109827
+INFO 2016-09-22 23:27:32,150 Overall test accuracy is: 0.76376146789
+INFO 2016-09-22 23:27:34,424 Mean loss in 8th epoch is: 0.457220196724
+INFO 2016-09-22 23:27:35,209 Overall training accuracy is: 0.968208092486
+INFO 2016-09-22 23:27:35,331 Overall test accuracy is: 0.764908256881
+INFO 2016-09-22 23:27:37,628 Mean loss in 9th epoch is: 0.457103967667
+INFO 2016-09-22 23:27:38,532 Overall training accuracy is: 0.968641618497
+INFO 2016-09-22 23:27:38,667 Overall test accuracy is: 0.758027522936
+INFO 2016-09-22 23:27:41,027 Mean loss in 10th epoch is: 0.457857370377
+INFO 2016-09-22 23:27:41,927 Overall training accuracy is: 0.96936416185
+INFO 2016-09-22 23:27:42,055 Overall test accuracy is: 0.764908256881
+INFO 2016-09-22 23:27:42,055 Normal Early stop
+INFO 2016-09-22 23:27:42,055 Training complete
+INFO 2016-09-25 16:07:40,839 Training start
+INFO 2016-09-25 16:12:15,901 Training start
+INFO 2016-09-25 16:13:50,191 Training start
+INFO 2016-09-25 16:14:31,769 Training start
+INFO 2016-09-25 16:15:52,032 Training start
+INFO 2016-09-25 16:16:44,138 Training start
+INFO 2016-09-25 16:17:59,457 Training start
+INFO 2016-09-25 16:19:11,879 Training start
+INFO 2016-09-25 16:20:31,724 Training start
+INFO 2016-09-25 16:21:59,702 Training start
+INFO 2016-09-25 16:24:59,321 Training start
+WARNING 2016-09-25 16:24:59,901 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7fa9f3d3ebd0>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-25 16:27:43,314 Training start
+WARNING 2016-09-25 16:27:43,892 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7f8266f79bd0>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-25 16:28:06,532 Training start
+WARNING 2016-09-25 16:28:07,137 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7f2803047bd0>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-25 16:31:33,885 Training start
+WARNING 2016-09-25 16:31:34,528 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7fd201a04bd0>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-25 16:32:36,607 Training start
+WARNING 2016-09-25 16:32:37,127 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7f669f1c7bd0>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-25 16:49:04,411 Training start
+WARNING 2016-09-25 16:49:05,003 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7fadef2dbbd0>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-25 16:49:36,734 Training start
+WARNING 2016-09-25 16:49:37,316 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7f859affcbd0>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-25 16:51:39,035 Training start
+WARNING 2016-09-25 16:51:39,627 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7ffa7e28ebd0>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-25 16:55:30,287 Training start
+WARNING 2016-09-25 16:55:30,886 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7ff3f7ab5bd0>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-25 16:57:36,338 Training start
+WARNING 2016-09-25 16:57:36,923 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7fd730e12bd0>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-25 16:59:24,952 Training start
+WARNING 2016-09-25 16:59:25,632 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7f5963a9bbd0>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-25 17:03:48,497 Training start
+WARNING 2016-09-25 17:03:49,001 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7f9a120d8bd0>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-25 17:04:35,873 Training start
+WARNING 2016-09-25 17:04:36,427 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7ff199d0fbd0>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-25 17:07:37,726 Training start
+WARNING 2016-09-25 17:07:38,309 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7f34caffcbd0>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-25 17:11:35,347 Training start
+WARNING 2016-09-25 17:11:35,902 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7f2ba5f99690>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-25 17:13:24,125 Training start
+WARNING 2016-09-25 17:13:24,745 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7fe95b323790>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-25 17:15:13,232 Training start
+WARNING 2016-09-25 17:15:13,776 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7f07ab552c50>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-25 17:15:50,653 Training start
+WARNING 2016-09-25 17:15:51,265 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7faddaf15690>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-25 17:16:40,670 Training start
+WARNING 2016-09-25 17:16:41,164 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7ff2cc07d690>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-25 17:24:05,996 Training start
+WARNING 2016-09-25 17:24:06,417 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7ff480787c50>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-25 17:27:29,180 Training start
+WARNING 2016-09-25 17:27:29,759 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7f999bab2c50>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-25 17:28:39,999 Training start
+WARNING 2016-09-25 17:28:40,570 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7faa6ee77c90>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-25 17:29:49,355 Training start
+WARNING 2016-09-25 17:29:49,942 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7f5be28bfc90>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-25 17:31:47,041 Training start
+WARNING 2016-09-25 17:31:47,554 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7f4d08014690>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-25 17:32:27,647 Training start
+WARNING 2016-09-25 17:32:28,163 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7fb1751bdc50>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-25 17:34:06,306 Training start
+WARNING 2016-09-25 17:34:06,819 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7fc81c0a3690>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-25 17:35:21,376 Training start
+WARNING 2016-09-25 17:35:21,901 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7eff0f73ec50>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-25 17:37:56,225 Training start
+WARNING 2016-09-25 17:37:56,804 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7f2085cc2690>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-25 18:00:34,254 Training start
+WARNING 2016-09-25 18:00:34,927 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7f22e2f77bd0>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-25 18:08:06,511 Training start
+WARNING 2016-09-25 18:08:06,949 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7f447880cbd0>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-25 18:11:25,368 Training start
+WARNING 2016-09-25 18:11:25,860 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7f9fc1f96bd0>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-25 18:49:17,426 Training start
+WARNING 2016-09-25 18:49:17,886 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7efbea9f3bd0>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-25 18:51:57,707 Training start
+WARNING 2016-09-25 18:51:58,344 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7feb48eaabd0>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-25 18:52:50,684 Training start
+WARNING 2016-09-25 18:52:51,219 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7f9935c27bd0>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-25 18:59:36,584 Training start
+WARNING 2016-09-25 18:59:37,042 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7f5ad74b7bd0>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-25 18:59:54,203 Training start
+WARNING 2016-09-25 18:59:54,759 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7faf6e11cbd0>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-25 19:02:12,674 Training start
+WARNING 2016-09-25 19:02:13,274 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7fa7ac441bd0>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-25 19:02:25,231 Training start
+WARNING 2016-09-25 19:02:25,882 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7f5700071bd0>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-25 19:06:31,324 Training start
+WARNING 2016-09-25 19:06:31,900 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7f679c999bd0>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-25 19:11:58,422 Training start
+WARNING 2016-09-25 19:11:59,011 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7fefb0b66bd0>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-25 19:17:11,223 Training start
+WARNING 2016-09-25 19:17:11,810 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7f0251983bd0>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-25 19:22:11,016 Training start
+WARNING 2016-09-25 19:22:11,506 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7fbcbfaa0bd0>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-25 19:23:41,829 Training start
+WARNING 2016-09-25 19:23:42,323 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7f885f185bd0>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-25 19:26:15,811 Training start
+WARNING 2016-09-25 19:26:16,329 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7f47858ebbd0>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-25 19:29:47,880 Training start
+WARNING 2016-09-25 19:29:48,370 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7fef8cf22bd0>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-25 19:35:23,837 Training start
+WARNING 2016-09-25 19:35:24,440 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7f7376ec5bd0>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-25 19:37:55,820 Training start
+WARNING 2016-09-25 19:37:56,307 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7fb6fb023b90>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-25 19:41:51,677 Training start
+WARNING 2016-09-25 19:41:52,198 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7f52965ca9d0>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-25 19:45:35,523 Training start
+WARNING 2016-09-25 19:45:36,025 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7f0e2eb9f9d0>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-25 19:53:24,615 Training start
+WARNING 2016-09-25 19:53:25,132 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7f9450175d90>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-25 19:59:33,927 Training start
+WARNING 2016-09-25 19:59:34,510 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7f5ceded7d10>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-25 20:00:39,247 Training start
+WARNING 2016-09-25 20:00:39,701 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7fe54c02fd10>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-25 20:01:56,996 Training start
+WARNING 2016-09-25 20:01:57,572 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7f9561bafd10>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-25 20:04:21,511 Training start
+WARNING 2016-09-25 20:04:22,032 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7f2620078d10>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-25 20:09:30,892 Training start
+WARNING 2016-09-25 20:09:31,457 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7f1b6c0f1d10>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-25 20:09:51,403 Training start
+WARNING 2016-09-25 20:09:52,005 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7fcd03c42d10>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-26 00:48:28,375 Training start
+WARNING 2016-09-26 00:48:28,948 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7f018349bd10>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-26 00:49:33,024 Training start
+WARNING 2016-09-26 00:49:33,639 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7f9dbae93d10>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-26 00:51:32,715 Training start
+WARNING 2016-09-26 00:51:33,315 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7f3b5d356d10>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-27 21:36:09,735 Training start
+WARNING 2016-09-27 21:36:10,812 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7f4cc6787d50>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-27 21:36:12,721 Sigmoid activation
+INFO 2016-09-27 21:36:29,080 Mean loss in 0th epoch is: 61.0776290894
+INFO 2016-09-27 21:36:29,421 Overall test accuracy is: 0.485091743119
+INFO 2016-09-27 21:36:42,438 Mean loss in 1th epoch is: 7.23344326019
+INFO 2016-09-27 21:36:42,626 Overall test accuracy is: 0.739678899083
+INFO 2016-09-27 21:36:55,217 Mean loss in 2th epoch is: 0.939058303833
+INFO 2016-09-27 21:36:55,360 Overall test accuracy is: 0.702981651376
+INFO 2016-09-27 21:36:58,359 Mean loss in 3th epoch is: 0.484945863485
+INFO 2016-09-27 21:36:58,550 Overall test accuracy is: 0.72247706422
+INFO 2016-09-27 21:37:01,299 Mean loss in 4th epoch is: 0.450297296047
+INFO 2016-09-27 21:37:01,438 Overall test accuracy is: 0.721330275229
+INFO 2016-09-27 21:37:04,056 Mean loss in 5th epoch is: 0.459961861372
+INFO 2016-09-27 21:37:04,189 Overall test accuracy is: 0.715596330275
+INFO 2016-09-27 21:37:06,831 Mean loss in 6th epoch is: 0.489351421595
+INFO 2016-09-27 21:37:06,948 Overall test accuracy is: 0.743119266055
+INFO 2016-09-27 21:37:19,538 Mean loss in 7th epoch is: 0.470418572426
+INFO 2016-09-27 21:37:19,648 Overall test accuracy is: 0.717889908257
+INFO 2016-09-27 21:37:22,048 Mean loss in 8th epoch is: 0.441327661276
+INFO 2016-09-27 21:37:22,213 Overall test accuracy is: 0.716743119266
+INFO 2016-09-27 21:37:24,377 Mean loss in 9th epoch is: 0.460455268621
+INFO 2016-09-27 21:37:24,529 Overall test accuracy is: 0.739678899083
+INFO 2016-09-27 21:37:26,783 Mean loss in 10th epoch is: 0.611946165562
+INFO 2016-09-27 21:37:26,962 Overall test accuracy is: 0.717889908257
+INFO 2016-09-27 21:37:29,145 Mean loss in 11th epoch is: 1.36898350716
+INFO 2016-09-27 21:37:29,247 Overall test accuracy is: 0.68004587156
+INFO 2016-09-27 21:37:31,703 Mean loss in 12th epoch is: 4.40176343918
+INFO 2016-09-27 21:37:31,879 Overall test accuracy is: 0.715596330275
+INFO 2016-09-27 21:37:31,879 Normal Early stop
+INFO 2016-09-27 21:40:35,864 Training start
+WARNING 2016-09-27 21:40:36,948 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7f7404f40b90>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-27 21:40:38,730 Sigmoid activation
+INFO 2016-09-27 21:40:54,426 Mean loss in 0th epoch is: 85.1149291992
+INFO 2016-09-27 21:40:54,823 Overall test accuracy is: 0.673165137615
+INFO 2016-09-27 21:41:07,494 Mean loss in 1th epoch is: 6.42390441895
+INFO 2016-09-27 21:41:07,635 Overall test accuracy is: 0.676605504587
+INFO 2016-09-27 21:41:20,725 Mean loss in 2th epoch is: 0.993387281895
+INFO 2016-09-27 21:41:20,856 Overall test accuracy is: 0.704128440367
+INFO 2016-09-27 21:41:33,699 Mean loss in 3th epoch is: 0.586452245712
+INFO 2016-09-27 21:41:33,884 Overall test accuracy is: 0.739678899083
+INFO 2016-09-27 21:41:46,666 Mean loss in 4th epoch is: 0.562984585762
+INFO 2016-09-27 21:41:46,757 Overall test accuracy is: 0.725917431193
+INFO 2016-09-27 21:41:49,603 Mean loss in 5th epoch is: 0.555408060551
+INFO 2016-09-27 21:41:49,759 Overall test accuracy is: 0.730504587156
+INFO 2016-09-27 21:41:52,749 Mean loss in 6th epoch is: 0.551238596439
+INFO 2016-09-27 21:41:52,863 Overall test accuracy is: 0.744266055046
+INFO 2016-09-27 21:42:05,918 Mean loss in 7th epoch is: 0.539567112923
+INFO 2016-09-27 21:42:06,019 Overall test accuracy is: 0.698394495413
+INFO 2016-09-27 21:42:07,887 Mean loss in 8th epoch is: 0.552472174168
+INFO 2016-09-27 21:42:08,029 Overall test accuracy is: 0.743119266055
+INFO 2016-09-27 21:42:10,217 Mean loss in 9th epoch is: 0.546182572842
+INFO 2016-09-27 21:42:10,336 Overall test accuracy is: 0.737385321101
+INFO 2016-09-27 21:42:12,536 Mean loss in 10th epoch is: 0.545132219791
+INFO 2016-09-27 21:42:12,620 Overall test accuracy is: 0.745412844037
+INFO 2016-09-27 21:42:25,574 Mean loss in 11th epoch is: 0.542129933834
+INFO 2016-09-27 21:42:25,667 Overall test accuracy is: 0.747706422018
+INFO 2016-09-27 21:42:37,851 Mean loss in 12th epoch is: 0.572649121284
+INFO 2016-09-27 21:42:38,051 Overall test accuracy is: 0.748853211009
+INFO 2016-09-27 21:42:50,218 Mean loss in 13th epoch is: 0.556802511215
+INFO 2016-09-27 21:42:50,278 Overall test accuracy is: 0.705275229358
+INFO 2016-09-27 21:42:52,669 Mean loss in 14th epoch is: 0.554906606674
+INFO 2016-09-27 21:42:52,788 Overall test accuracy is: 0.73623853211
+INFO 2016-09-27 21:42:55,697 Mean loss in 15th epoch is: 0.543226003647
+INFO 2016-09-27 21:42:55,796 Overall test accuracy is: 0.735091743119
+INFO 2016-09-27 21:42:58,702 Mean loss in 16th epoch is: 0.548307180405
+INFO 2016-09-27 21:42:58,877 Overall test accuracy is: 0.748853211009
+INFO 2016-09-27 21:43:01,922 Mean loss in 17th epoch is: 0.553351283073
+INFO 2016-09-27 21:43:02,073 Overall test accuracy is: 0.75
+INFO 2016-09-27 21:43:15,060 Mean loss in 18th epoch is: 0.572527825832
+INFO 2016-09-27 21:43:15,159 Overall test accuracy is: 0.745412844037
+INFO 2016-09-27 21:43:17,684 Mean loss in 19th epoch is: 0.577680110931
+INFO 2016-09-27 21:43:17,815 Overall test accuracy is: 0.747706422018
+INFO 2016-09-27 21:43:20,579 Mean loss in 20th epoch is: 0.539339780807
+INFO 2016-09-27 21:43:20,716 Overall test accuracy is: 0.751146788991
+INFO 2016-09-27 21:43:34,162 Mean loss in 21th epoch is: 0.534141778946
+INFO 2016-09-27 21:43:34,271 Overall test accuracy is: 0.728211009174
+INFO 2016-09-27 21:43:36,543 Mean loss in 22th epoch is: 0.53140515089
+INFO 2016-09-27 21:43:36,678 Overall test accuracy is: 0.747706422018
+INFO 2016-09-27 21:43:39,009 Mean loss in 23th epoch is: 0.541726410389
+INFO 2016-09-27 21:43:39,098 Overall test accuracy is: 0.725917431193
+INFO 2016-09-27 21:43:41,253 Mean loss in 24th epoch is: 0.537285387516
+INFO 2016-09-27 21:43:41,379 Overall test accuracy is: 0.725917431193
+INFO 2016-09-27 21:43:43,655 Mean loss in 25th epoch is: 0.546107530594
+INFO 2016-09-27 21:43:43,754 Overall test accuracy is: 0.774082568807
+INFO 2016-09-27 21:43:56,231 Mean loss in 26th epoch is: 0.537165760994
+INFO 2016-09-27 21:43:56,323 Overall test accuracy is: 0.756880733945
+INFO 2016-09-27 21:43:58,482 Mean loss in 27th epoch is: 0.544988811016
+INFO 2016-09-27 21:43:58,715 Overall test accuracy is: 0.663990825688
+INFO 2016-09-27 21:44:01,143 Mean loss in 28th epoch is: 0.535015165806
+INFO 2016-09-27 21:44:01,266 Overall test accuracy is: 0.745412844037
+INFO 2016-09-27 21:44:03,667 Mean loss in 29th epoch is: 0.530115842819
+INFO 2016-09-27 21:44:03,772 Overall test accuracy is: 0.754587155963
+INFO 2016-09-27 21:44:05,977 Mean loss in 30th epoch is: 0.527892649174
+INFO 2016-09-27 21:44:06,141 Overall test accuracy is: 0.714449541284
+INFO 2016-09-27 21:44:08,589 Mean loss in 31th epoch is: 0.533014416695
+INFO 2016-09-27 21:44:08,647 Overall test accuracy is: 0.744266055046
+INFO 2016-09-27 21:44:08,648 Normal Early stop
+INFO 2016-09-27 21:49:03,633 Training start
+WARNING 2016-09-27 21:49:04,431 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7f20913d2910>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-27 21:50:12,867 Training start
+WARNING 2016-09-27 21:50:13,725 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7f37171bf910>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-27 22:00:01,602 Training start
+WARNING 2016-09-27 22:00:02,644 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7f92055ccb90>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-27 22:00:04,557 Sigmoid activation
+INFO 2016-09-27 22:00:19,221 Mean loss in 0th epoch is: 23.0469970703
+INFO 2016-09-27 22:00:19,496 Overall test accuracy is: 0.702981651376
+INFO 2016-09-27 22:00:31,475 Mean loss in 1th epoch is: 1.52494001389
+INFO 2016-09-27 22:00:31,622 Overall test accuracy is: 0.75
+INFO 2016-09-27 22:00:44,091 Mean loss in 2th epoch is: 0.584597885609
+INFO 2016-09-27 22:00:44,194 Overall test accuracy is: 0.761467889908
+INFO 2016-09-27 22:00:57,179 Mean loss in 3th epoch is: 0.49411842227
+INFO 2016-09-27 22:00:57,342 Overall test accuracy is: 0.76376146789
+INFO 2016-09-27 22:01:10,761 Mean loss in 4th epoch is: 0.473098158836
+INFO 2016-09-27 22:01:10,897 Overall test accuracy is: 0.762614678899
+INFO 2016-09-27 22:01:13,751 Mean loss in 5th epoch is: 0.465502470732
+INFO 2016-09-27 22:01:13,870 Overall test accuracy is: 0.766055045872
+INFO 2016-09-27 22:01:26,304 Mean loss in 6th epoch is: 0.461813479662
+INFO 2016-09-27 22:01:26,397 Overall test accuracy is: 0.76376146789
+INFO 2016-09-27 22:01:28,580 Mean loss in 7th epoch is: 0.459737092257
+INFO 2016-09-27 22:01:28,674 Overall test accuracy is: 0.752293577982
+INFO 2016-09-27 22:01:31,394 Mean loss in 8th epoch is: 0.458324074745
+INFO 2016-09-27 22:01:31,511 Overall test accuracy is: 0.761467889908
+INFO 2016-09-27 22:01:34,302 Mean loss in 9th epoch is: 0.45639193058
+INFO 2016-09-27 22:01:34,403 Overall test accuracy is: 0.76376146789
+INFO 2016-09-27 22:01:36,800 Mean loss in 10th epoch is: 0.454845190048
+INFO 2016-09-27 22:01:36,895 Overall test accuracy is: 0.761467889908
+INFO 2016-09-27 22:01:39,210 Mean loss in 11th epoch is: 0.453256636858
+INFO 2016-09-27 22:01:39,323 Overall test accuracy is: 0.764908256881
+INFO 2016-09-27 22:01:39,323 Normal Early stop
+INFO 2016-09-27 22:03:18,260 Training start
+WARNING 2016-09-27 22:03:19,394 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7f7b4d44cb90>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-09-27 22:03:21,249 Sigmoid activation
+INFO 2016-09-27 22:03:38,206 Mean loss in 0th epoch is: 26.7794513702
+INFO 2016-09-27 22:03:38,503 Overall test accuracy is: 0.723623853211
+INFO 2016-09-27 22:03:51,865 Mean loss in 1th epoch is: 1.6839094162
+INFO 2016-09-27 22:03:52,039 Overall test accuracy is: 0.75
+INFO 2016-09-27 22:04:04,450 Mean loss in 2th epoch is: 0.594611823559
+INFO 2016-09-27 22:04:04,544 Overall test accuracy is: 0.767201834862
+INFO 2016-09-27 22:04:16,952 Mean loss in 3th epoch is: 0.49171808362
+INFO 2016-09-27 22:04:17,157 Overall test accuracy is: 0.76376146789
+INFO 2016-09-27 22:04:19,582 Mean loss in 4th epoch is: 0.472794651985
+INFO 2016-09-27 22:04:19,653 Overall test accuracy is: 0.764908256881
+INFO 2016-09-27 22:04:22,627 Mean loss in 5th epoch is: 0.465699642897
+INFO 2016-09-27 22:04:22,686 Overall test accuracy is: 0.770642201835
+INFO 2016-09-27 22:04:35,942 Mean loss in 6th epoch is: 0.461068183184
+INFO 2016-09-27 22:04:35,998 Overall test accuracy is: 0.771788990826
+INFO 2016-09-27 22:04:49,635 Mean loss in 7th epoch is: 0.460560947657
+INFO 2016-09-27 22:04:49,770 Overall test accuracy is: 0.770642201835
+INFO 2016-09-27 22:04:51,727 Mean loss in 8th epoch is: 0.458077669144
+INFO 2016-09-27 22:04:51,792 Overall test accuracy is: 0.762614678899
+INFO 2016-09-27 22:04:53,915 Mean loss in 9th epoch is: 0.458242207766
+INFO 2016-09-27 22:04:54,051 Overall test accuracy is: 0.754587155963
+INFO 2016-09-27 22:04:56,623 Mean loss in 10th epoch is: 0.455022603273
+INFO 2016-09-27 22:04:56,796 Overall test accuracy is: 0.755733944954
+INFO 2016-09-27 22:04:59,420 Mean loss in 11th epoch is: 0.453328102827
+INFO 2016-09-27 22:04:59,499 Overall test accuracy is: 0.764908256881
+INFO 2016-09-27 22:05:01,993 Mean loss in 12th epoch is: 0.451767385006
+INFO 2016-09-27 22:05:02,154 Overall test accuracy is: 0.770642201835
+INFO 2016-09-27 22:05:02,154 Normal Early stop
+INFO 2016-09-27 23:54:49,807 Training start
+WARNING 2016-09-27 23:54:50,498 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7fbf9d1b2910>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-10-09 17:44:45,081 Training start
+WARNING 2016-10-09 17:44:45,992 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7f9e49c3ef10>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-10-09 17:44:47,356 Sigmoid activation
+INFO 2016-10-09 17:44:59,501 Mean loss in 0th epoch is: 27.1334266663
+INFO 2016-10-09 17:44:59,753 Overall test accuracy is: 0.741972477064
+INFO 2016-10-09 17:45:09,681 Mean loss in 1th epoch is: 1.71185529232
+INFO 2016-10-09 17:45:09,816 Overall test accuracy is: 0.756880733945
+INFO 2016-10-09 17:45:19,144 Mean loss in 2th epoch is: 0.601661622524
+INFO 2016-10-09 17:45:19,273 Overall test accuracy is: 0.766055045872
+INFO 2016-10-09 17:45:28,779 Mean loss in 3th epoch is: 0.496614992619
+INFO 2016-10-09 17:45:28,898 Overall test accuracy is: 0.776376146789
+INFO 2016-10-09 17:45:38,074 Mean loss in 4th epoch is: 0.475339114666
+INFO 2016-10-09 17:45:38,201 Overall test accuracy is: 0.768348623853
+INFO 2016-10-09 17:45:40,561 Mean loss in 5th epoch is: 0.466700553894
+INFO 2016-10-09 17:45:40,684 Overall test accuracy is: 0.774082568807
+INFO 2016-10-09 17:45:43,078 Mean loss in 6th epoch is: 0.467290133238
+INFO 2016-10-09 17:45:43,213 Overall test accuracy is: 0.755733944954
+INFO 2016-10-09 17:45:45,531 Mean loss in 7th epoch is: 0.464774817228
+INFO 2016-10-09 17:45:45,661 Overall test accuracy is: 0.76376146789
+INFO 2016-10-09 17:45:48,027 Mean loss in 8th epoch is: 0.459503799677
+INFO 2016-10-09 17:45:48,156 Overall test accuracy is: 0.766055045872
+INFO 2016-10-09 17:45:50,504 Mean loss in 9th epoch is: 0.457043200731
+INFO 2016-10-09 17:45:50,633 Overall test accuracy is: 0.756880733945
+INFO 2016-10-09 17:45:50,633 Normal Early stop
+INFO 2016-10-09 17:46:42,210 Training start
+WARNING 2016-10-09 17:46:42,894 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7ff5aaf7b950>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-10-09 17:50:17,344 Training start
+WARNING 2016-10-09 17:50:17,943 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7fbefb7ed950>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-10-09 17:51:11,012 Training start
+WARNING 2016-10-09 17:51:11,630 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7f916bf8f950>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-10-09 18:20:43,331 Training start
+WARNING 2016-10-09 18:20:44,146 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7f94b67d7f50>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-10-09 18:20:45,524 Sigmoid activation
+INFO 2016-10-09 18:20:57,594 Mean loss in 0th epoch is: 11.2846918106
+INFO 2016-10-09 18:20:57,921 Overall test accuracy is: 0.715596330275
+INFO 2016-10-09 18:21:07,097 Mean loss in 1th epoch is: 0.972530126572
+INFO 2016-10-09 18:21:07,198 Overall test accuracy is: 0.776376146789
+INFO 2016-10-09 18:21:16,343 Mean loss in 2th epoch is: 0.463176310062
+INFO 2016-10-09 18:21:16,473 Overall test accuracy is: 0.783256880734
+INFO 2016-10-09 18:21:24,993 Mean loss in 3th epoch is: 0.374378949404
+INFO 2016-10-09 18:21:25,091 Overall test accuracy is: 0.779816513761
+INFO 2016-10-09 18:21:26,867 Mean loss in 4th epoch is: 0.335732519627
+INFO 2016-10-09 18:21:26,958 Overall test accuracy is: 0.779816513761
+INFO 2016-10-09 18:21:28,835 Mean loss in 5th epoch is: 0.312696784735
+INFO 2016-10-09 18:21:28,937 Overall test accuracy is: 0.785550458716
+INFO 2016-10-09 18:21:38,242 Mean loss in 6th epoch is: 0.295093297958
+INFO 2016-10-09 18:21:38,342 Overall test accuracy is: 0.768348623853
+INFO 2016-10-09 18:21:40,138 Mean loss in 7th epoch is: 0.280839204788
+INFO 2016-10-09 18:21:40,266 Overall test accuracy is: 0.778669724771
+INFO 2016-10-09 18:21:45,905 Training start
+WARNING 2016-10-09 18:21:46,375 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7fd7ca75cd90>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-10-09 18:26:41,529 Training start
+WARNING 2016-10-09 18:26:42,213 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7f3c677a3810>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-10-09 18:29:38,141 Training start
+WARNING 2016-10-09 18:29:38,734 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7f22400d3d90>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-10-09 18:31:36,454 Training start
+WARNING 2016-10-09 18:31:37,017 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7fdb6964ad90>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-10-09 18:32:58,163 Training start
+WARNING 2016-10-09 18:32:58,628 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7f6f8ddd1d90>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-10-09 18:34:45,024 Training start
+WARNING 2016-10-09 18:34:45,714 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7f52d9fb2810>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-10-09 18:40:47,058 Training start
+WARNING 2016-10-09 18:40:47,490 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7f1453b23810>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-10-09 18:44:16,151 Training start
+WARNING 2016-10-09 18:44:16,708 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7f7b3c575810>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-10-09 18:45:24,460 Training start
+WARNING 2016-10-09 18:45:24,924 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7f6de813ad90>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-10-09 18:49:27,021 Training start
+WARNING 2016-10-09 18:49:27,811 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7f33438def50>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-10-09 18:49:29,196 Sigmoid activation
+INFO 2016-10-09 18:49:41,474 Mean loss in 0th epoch is: 11.3670053482
+INFO 2016-10-09 18:49:41,867 Overall test accuracy is: 0.701834862385
+INFO 2016-10-09 18:49:51,186 Mean loss in 1th epoch is: 0.988346397877
+INFO 2016-10-09 18:49:51,314 Overall test accuracy is: 0.76376146789
+INFO 2016-10-09 18:50:00,435 Mean loss in 2th epoch is: 0.474680542946
+INFO 2016-10-09 18:50:00,564 Overall test accuracy is: 0.783256880734
+INFO 2016-10-09 18:50:09,603 Mean loss in 3th epoch is: 0.37427714467
+INFO 2016-10-09 18:50:09,742 Overall test accuracy is: 0.778669724771
+INFO 2016-10-09 18:50:11,982 Mean loss in 4th epoch is: 0.334023505449
+INFO 2016-10-09 18:50:12,107 Overall test accuracy is: 0.77752293578
+INFO 2016-10-09 18:50:14,418 Mean loss in 5th epoch is: 0.309768110514
+INFO 2016-10-09 18:50:14,566 Overall test accuracy is: 0.780963302752
+INFO 2016-10-09 18:50:20,056 Training start
+WARNING 2016-10-09 18:50:20,667 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7ff8b7104d90>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-10-09 18:57:16,758 Training start
+WARNING 2016-10-09 18:57:17,369 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7f5b7b1ced90>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-10-09 18:57:18,599 Sigmoid activation
+INFO 2016-10-09 18:57:29,988 Mean loss in 0th epoch is: 11.125954628
+INFO 2016-10-09 18:57:30,351 Overall test accuracy is: 0.720183486239
+INFO 2016-10-09 18:57:39,890 Mean loss in 1th epoch is: 0.980591893196
+INFO 2016-10-09 18:57:40,004 Overall test accuracy is: 0.785550458716
+INFO 2016-10-09 18:57:52,673 Training start
+WARNING 2016-10-09 18:57:53,136 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7fe836372e10>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-10-09 18:58:36,179 Training start
+WARNING 2016-10-09 18:58:36,672 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7fb774a05e10>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-10-09 19:01:56,477 Training start
+WARNING 2016-10-09 19:01:57,049 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7fe2acc85e10>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-10-09 19:02:48,135 Training start
+WARNING 2016-10-09 19:02:48,761 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7f69b3e2ce10>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-10-09 19:13:24,095 Training start
+WARNING 2016-10-09 19:13:24,618 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7efd0e2d69d0>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-10-09 19:19:40,028 Training start
+WARNING 2016-10-09 19:19:40,457 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7f81d12879d0>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-10-09 19:22:55,040 Training start
+WARNING 2016-10-09 19:22:55,534 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7fa7791229d0>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-10-09 19:23:54,002 Training start
+WARNING 2016-10-09 19:23:54,503 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7f3951ac0f90>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-10-09 19:33:47,169 Training start
+WARNING 2016-10-09 19:33:47,764 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7fb5bc14a050>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-10-09 19:34:40,167 Training start
+WARNING 2016-10-09 19:34:40,783 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7f8c1c964050>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-10-09 20:48:02,856 Training start
+WARNING 2016-10-09 20:48:03,357 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7f4923cad810>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.
+INFO 2016-10-09 20:51:22,306 Training start
+WARNING 2016-10-09 20:51:22,903 <tensorflow.python.ops.rnn_cell.BasicLSTMCell object at 0x7f2a27ae4810>: Using a concatenated state is slower and will soon be deprecated.  Use state_is_tuple=True.

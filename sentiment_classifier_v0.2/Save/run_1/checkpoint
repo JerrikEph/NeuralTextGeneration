@@ -1,0 +1,2 @@
+model_checkpoint_path: "news.weights"
+all_model_checkpoint_paths: "news.weights"

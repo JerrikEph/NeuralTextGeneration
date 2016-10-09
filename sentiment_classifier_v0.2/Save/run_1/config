@@ -1,0 +1,19 @@
+[General]
+pre_trained = False
+vocab_size = 50000
+batch_size = 256
+embed_size = 100
+max_epochs = 50
+early_stopping = 5
+dropout = 1.
+lr = 0.01
+decay_steps = 100
+decay_rate = 0.9
+class_num = 1
+reg = 0.5
+num_steps = 40
+
+[lstm]
+hidden_size = 60
+rnn_numlayers = 1
+
